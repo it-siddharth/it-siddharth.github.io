@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/001.wav",
+      "duration": 17.875,
+      "textHash": "6038cf5c6c00"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/002.wav",
+      "duration": 42.15,
+      "textHash": "4cb7df98b9b8"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/003.wav",
+      "duration": 21.45,
+      "textHash": "5790acee1f09"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/004.wav",
+      "duration": 47.2,
+      "textHash": "fe439d7f6ee2"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/005.wav",
+      "duration": 19.175,
+      "textHash": "4bb28ce0685e"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/006.wav",
+      "duration": 17.975,
+      "textHash": "a944dc139931"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/007.wav",
+      "duration": 47.625,
+      "textHash": "2b060fc325fe"
+    }
+  ]
+}

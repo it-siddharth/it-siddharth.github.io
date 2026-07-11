@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.913Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/me-at-twenty-five/001.wav",
+      "duration": 11.775,
+      "textHash": "14b2f8a56da2"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/002.wav",
+      "duration": 33.875,
+      "textHash": "c361f4786fb5"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/003.wav",
+      "duration": 13.525,
+      "textHash": "1917fc623b30"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/004.wav",
+      "duration": 18.75,
+      "textHash": "282071381369"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/005.wav",
+      "duration": 27.65,
+      "textHash": "3716aae24329"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/006.wav",
+      "duration": 17.45,
+      "textHash": "c954db9b9ce0"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/007.wav",
+      "duration": 26.8,
+      "textHash": "93b560d106d5"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/008.wav",
+      "duration": 25.85,
+      "textHash": "40af63090a85"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/009.wav",
+      "duration": 34.5,
+      "textHash": "2c3adb98a10a"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/010.wav",
+      "duration": 9.375,
+      "textHash": "18d563ee1192"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/011.wav",
+      "duration": 20.5,
+      "textHash": "41788fc49278"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/012.wav",
+      "duration": 17.75,
+      "textHash": "a9efca885326"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/013.wav",
+      "duration": 17.55,
+      "textHash": "1c79b6237581"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/014.wav",
+      "duration": 24.45,
+      "textHash": "e09ea6a84c6b"
+    }
+  ]
+}

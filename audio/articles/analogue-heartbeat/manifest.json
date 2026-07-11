@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.911Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/analogue-heartbeat/001.wav",
+      "duration": 25.175,
+      "textHash": "5672caf15400"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/002.wav",
+      "duration": 27.925,
+      "textHash": "8220eab465ff"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/003.wav",
+      "duration": 21.725,
+      "textHash": "a508241bb99d"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/004.wav",
+      "duration": 42.45,
+      "textHash": "fa723fe72b6a"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/005.wav",
+      "duration": 16.925,
+      "textHash": "0611e79bbe42"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/006.wav",
+      "duration": 19.05,
+      "textHash": "bedbd0180614"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/007.wav",
+      "duration": 24.625,
+      "textHash": "04141bf6161f"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/008.wav",
+      "duration": 13.7,
+      "textHash": "2191b5e144e4"
+    }
+  ]
+}

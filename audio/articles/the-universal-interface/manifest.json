@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/the-universal-interface/001.wav",
+      "duration": 20.15,
+      "textHash": "f1482bdea7f6"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/002.wav",
+      "duration": 25.575,
+      "textHash": "66739a836b24"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/003.wav",
+      "duration": 54.35,
+      "textHash": "17f92d4ac84c"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/004.wav",
+      "duration": 25.475,
+      "textHash": "a0a0671be7c0"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/005.wav",
+      "duration": 53.55,
+      "textHash": "bc534c8f4bda"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/006.wav",
+      "duration": 27.375,
+      "textHash": "a3e71010e81b"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/007.wav",
+      "duration": 15.2,
+      "textHash": "a3c4a9bf7adf"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/008.wav",
+      "duration": 50.05,
+      "textHash": "bec08723e84c"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/009.wav",
+      "duration": 25.55,
+      "textHash": "58af6998cc85"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/010.wav",
+      "duration": 47.775,
+      "textHash": "44ddea7845be"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/last-goodbyes/001.wav",
+      "duration": 5.325,
+      "textHash": "716739674384"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/002.wav",
+      "duration": 20.775,
+      "textHash": "822f7330ca7d"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/003.wav",
+      "duration": 26.175,
+      "textHash": "43e0400f6a3d"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/004.wav",
+      "duration": 30.975,
+      "textHash": "84a7d0a4220d"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/005.wav",
+      "duration": 14.3,
+      "textHash": "50a3e6c6dc11"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/006.wav",
+      "duration": 19.5,
+      "textHash": "6588a236788b"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/007.wav",
+      "duration": 39,
+      "textHash": "f53143bcc484"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/008.wav",
+      "duration": 18.5,
+      "textHash": "33c9ea52e289"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/009.wav",
+      "duration": 18.725,
+      "textHash": "911b235b0918"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.910Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/001.wav",
+      "duration": 43.625,
+      "textHash": "a8d7dc3dcd41"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/002.wav",
+      "duration": 19.8,
+      "textHash": "5539c1bd2cd6"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/003.wav",
+      "duration": 30.1,
+      "textHash": "45cf3bb520fb"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/004.wav",
+      "duration": 38.15,
+      "textHash": "eb55322d7565"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/005.wav",
+      "duration": 41.475,
+      "textHash": "847c1fa2da49"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/006.wav",
+      "duration": 50.875,
+      "textHash": "79ff2618984f"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/007.wav",
+      "duration": 41.55,
+      "textHash": "9ec4aad81651"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/008.wav",
+      "duration": 26.95,
+      "textHash": "a050bfc6002f"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/009.wav",
+      "duration": 29.725,
+      "textHash": "4fa22545ec10"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/010.wav",
+      "duration": 13,
+      "textHash": "c8d552f86f0f"
+    }
+  ]
+}

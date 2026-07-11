@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.913Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/dissecting-design/001.wav",
+      "duration": 27.5,
+      "textHash": "78970d71e210"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/002.wav",
+      "duration": 25.425,
+      "textHash": "ee747a37256f"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/003.wav",
+      "duration": 14.025,
+      "textHash": "8ce17b448f46"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/004.wav",
+      "duration": 21.025,
+      "textHash": "88b455b88772"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/005.wav",
+      "duration": 27.4,
+      "textHash": "e75b66856c35"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/006.wav",
+      "duration": 34.175,
+      "textHash": "c9e8384ce474"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/007.wav",
+      "duration": 24.275,
+      "textHash": "26eaeaf87317"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/008.wav",
+      "duration": 9.45,
+      "textHash": "3c02ca0eb6d7"
+    }
+  ]
+}

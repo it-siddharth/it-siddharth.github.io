@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/the-chapter-one-problem/001.wav",
+      "duration": 31.575,
+      "textHash": "d0817148bd3b"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/002.wav",
+      "duration": 20.125,
+      "textHash": "e0cf4ffddf21"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/003.wav",
+      "duration": 41.25,
+      "textHash": "2fab55c7752b"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/004.wav",
+      "duration": 20.025,
+      "textHash": "0d3182bf7bcd"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/005.wav",
+      "duration": 3.475,
+      "textHash": "648919088ef2"
+    }
+  ]
+}

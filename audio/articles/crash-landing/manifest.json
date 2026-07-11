@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/crash-landing/001.wav",
+      "duration": 27.1,
+      "textHash": "5643ba45a25a"
+    },
+    {
+      "src": "/audio/articles/crash-landing/002.wav",
+      "duration": 51.55,
+      "textHash": "9cadc8cb36a3"
+    },
+    {
+      "src": "/audio/articles/crash-landing/003.wav",
+      "duration": 5.525,
+      "textHash": "ae099bd9a200"
+    },
+    {
+      "src": "/audio/articles/crash-landing/004.wav",
+      "duration": 27.1,
+      "textHash": "f6c383ca45db"
+    },
+    {
+      "src": "/audio/articles/crash-landing/005.wav",
+      "duration": 26.875,
+      "textHash": "a248c11a9eaa"
+    },
+    {
+      "src": "/audio/articles/crash-landing/006.wav",
+      "duration": 32.3,
+      "textHash": "988c4868cdc5"
+    }
+  ]
+}

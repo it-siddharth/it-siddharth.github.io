@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "engine": "kokoro",
+  "voice": "af_heart",
+  "langCode": "a",
+  "format": "wav",
+  "generatedAt": "2026-07-11T03:42:30.911Z",
+  "chunks": [
+    {
+      "src": "/audio/articles/am-i-my-algorithm/001.wav",
+      "duration": 39.05,
+      "textHash": "0067799128e6"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/002.wav",
+      "duration": 19.15,
+      "textHash": "042ed1969a84"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/003.wav",
+      "duration": 36.575,
+      "textHash": "bd290e50643f"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/004.wav",
+      "duration": 33.35,
+      "textHash": "2d7139bb701b"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/005.wav",
+      "duration": 31.35,
+      "textHash": "bbf4b02c53cf"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/006.wav",
+      "duration": 35.625,
+      "textHash": "71e1a9e86d4d"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/007.wav",
+      "duration": 26.8,
+      "textHash": "ae67e7ef99d0"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/008.wav",
+      "duration": 31.825,
+      "textHash": "2dd171852a2a"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/009.wav",
+      "duration": 11.325,
+      "textHash": "a0bd88aea2ff"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/010.wav",
+      "duration": 20.275,
+      "textHash": "cd7af7661562"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/011.wav",
+      "duration": 13.375,
+      "textHash": "e03d18d0bc64"
+    },
+    {
+      "src": "/audio/articles/am-i-my-algorithm/012.wav",
+      "duration": 3.5,
+      "textHash": "8da4bfc3a5a0"
+    }
+  ]
+}
