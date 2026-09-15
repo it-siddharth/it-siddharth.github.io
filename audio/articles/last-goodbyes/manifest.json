@@ -1,55 +1,294 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:26:12.270075+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/last-goodbyes/001.wav",
-      "duration": 5.325,
-      "textHash": "716739674384"
+      "src": "/audio/articles/last-goodbyes/001-da4a5e0345ae.wav",
+      "duration": 4.868041666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "716739674384",
+      "audioSha256": "da4a5e0345ae3064cced65236f12176640a0ef58a1c286a8c5388c33bde79979"
     },
     {
-      "src": "/audio/articles/last-goodbyes/002.wav",
-      "duration": 20.775,
-      "textHash": "822f7330ca7d"
+      "src": "/audio/articles/last-goodbyes/002-e6e6f53bb5e5.wav",
+      "duration": 7.014833333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f67903963464",
+      "audioSha256": "e6e6f53bb5e5c5a29fc3fa355790a142e6d04eb186b9a1a0727f5a37ef4da464"
     },
     {
-      "src": "/audio/articles/last-goodbyes/003.wav",
-      "duration": 26.175,
-      "textHash": "43e0400f6a3d"
+      "src": "/audio/articles/last-goodbyes/003-b1abdcad70bc.wav",
+      "duration": 4.296666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "895b4210e32c",
+      "audioSha256": "b1abdcad70bc1d653a246a0882c71807cb3216f890bd339feedc1944851d2bb0"
     },
     {
-      "src": "/audio/articles/last-goodbyes/004.wav",
-      "duration": 30.975,
-      "textHash": "84a7d0a4220d"
+      "src": "/audio/articles/last-goodbyes/004-479a34d342e7.wav",
+      "duration": 6.975875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "96545fa93c54",
+      "audioSha256": "479a34d342e716be92370dba6cc62d3c3ed44a2ed573d52901a0a7779415f5b6"
     },
     {
-      "src": "/audio/articles/last-goodbyes/005.wav",
-      "duration": 14.3,
-      "textHash": "50a3e6c6dc11"
+      "src": "/audio/articles/last-goodbyes/005-d45c164ab02c.wav",
+      "duration": 4.814166666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "414c726eab1a",
+      "audioSha256": "d45c164ab02c1e67306fb8b34a71aa4308ed90520956457e82dd15884e49523e"
     },
     {
-      "src": "/audio/articles/last-goodbyes/006.wav",
-      "duration": 19.5,
-      "textHash": "6588a236788b"
+      "src": "/audio/articles/last-goodbyes/006-0905e49f0a37.wav",
+      "duration": 9.932875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d12a4d146ccb",
+      "audioSha256": "0905e49f0a375c82b6d7580af985dbfbb9a0253a92025f066f13da6ceefc55b0"
     },
     {
-      "src": "/audio/articles/last-goodbyes/007.wav",
-      "duration": 39,
-      "textHash": "f53143bcc484"
+      "src": "/audio/articles/last-goodbyes/007-4c4b22fb8cef.wav",
+      "duration": 4.826125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "71d8e9828ddc",
+      "audioSha256": "4c4b22fb8cef21dcd6456cefb7f2228579eff28e90264dbf088ce14eea74209f"
     },
     {
-      "src": "/audio/articles/last-goodbyes/008.wav",
-      "duration": 18.5,
-      "textHash": "33c9ea52e289"
+      "src": "/audio/articles/last-goodbyes/008-1b1035484af7.wav",
+      "duration": 4.004208333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6708fba8ffdc",
+      "audioSha256": "1b1035484af77b36d9d2dc7544543c76895262917dd13aeb2d8faa3d4f72e399"
     },
     {
-      "src": "/audio/articles/last-goodbyes/009.wav",
-      "duration": 18.725,
-      "textHash": "911b235b0918"
+      "src": "/audio/articles/last-goodbyes/009-28cc1a55ff28.wav",
+      "duration": 7.910375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "db572537e8c7",
+      "audioSha256": "28cc1a55ff28ec726df95bd7f860518a92f9c826fa6091dcd5e915e5fe64d3c7"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/010-f8d39ea16685.wav",
+      "duration": 2.6619166666666665,
+      "addedPauseSeconds": 0.7,
+      "textHash": "ea523d09c915",
+      "audioSha256": "f8d39ea16685d5ac6f1597d54e76219191ad1c94931fe2a9c3bf586ffc93cf5d"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/011-cb65c33a31d4.wav",
+      "duration": 11.565083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6822b63cd387",
+      "audioSha256": "cb65c33a31d439dca077d3917f46a926ca1579872d9f7a9c3c5ca406aac19c0a"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/012-8b7afba95dd1.wav",
+      "duration": 6.712666666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "db75a2702168",
+      "audioSha256": "8b7afba95dd1ee1eb2d241fd5337294316156cdcc5964ab99415cce8c844eb0e"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/013-09a07efb0cb1.wav",
+      "duration": 4.825333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6f48b76759a7",
+      "audioSha256": "09a07efb0cb1c0b502fb392f647d6f48362a459b7dd76fc2fbf786a290f7327d"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/014-ade0be545229.wav",
+      "duration": 3.224291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "56212051d5b7",
+      "audioSha256": "ade0be545229ee350260c57bf8c5e61713e792c6c1f8100df98b54d481357340"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/015-252d8494e730.wav",
+      "duration": 2.1054166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a331938ccc9f",
+      "audioSha256": "252d8494e730aa4e7b21070b5c9ce09b954e9601cd3d5c2f6b9ecf033dcf7127"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/016-990972e0d33a.wav",
+      "duration": 2.9755833333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "db0e26b25772",
+      "audioSha256": "990972e0d33aa91bd34c3f1659567e35c3ee3035ad4f7501f84fbfcd5c510577"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/017-e49252f0c03e.wav",
+      "duration": 5.336083333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "94e81effd5d3",
+      "audioSha256": "e49252f0c03e08f81af02ef63347a506df77e6589293f24308148f0c60704b99"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/018-5ed27d65aa36.wav",
+      "duration": 2.46075,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4fb5a6597d44",
+      "audioSha256": "5ed27d65aa362b39736f92fdd12acb1768ae4b99334771d43f8c08fb2479be36"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/019-86823f7e4863.wav",
+      "duration": 11.5755,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0fc1f29ccef5",
+      "audioSha256": "86823f7e486393b72a09d6babf768f1b0a3005c527f820638cb2c0a91192cee7"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/020-9c39a66da445.wav",
+      "duration": 1.7197916666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "437386344db0",
+      "audioSha256": "9c39a66da445ef54a0547de941d3c2b9f29f09b89ecd9702b64da532719f468f"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/021-2e1d3ad40a73.wav",
+      "duration": 2.8897916666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2b2ccc9845dc",
+      "audioSha256": "2e1d3ad40a73aa097eb982734b0c9a6889486b9811c3cff5e0f6704841961021"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/022-f4a39a0d6506.wav",
+      "duration": 6.839041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c2c2f79eb09b",
+      "audioSha256": "f4a39a0d65065b0950c8a71111887d8d08171f7f3c85fb4aaefb2bf9a4004766"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/023-348756d8db03.wav",
+      "duration": 6.065125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c5461af60494",
+      "audioSha256": "348756d8db03a022090e23be7cc112d7543dbe60b3202a7a858a541cb6b32f50"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/024-efa1520d2ec0.wav",
+      "duration": 5.813625,
+      "addedPauseSeconds": 0.7,
+      "textHash": "953a7f51db13",
+      "audioSha256": "efa1520d2ec03338e906159e1a7fa96fbe2791f552b817be34347ad3e23e223a"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/025-8e217afe8e52.wav",
+      "duration": 2.6757916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "eb18ae2641c2",
+      "audioSha256": "8e217afe8e5292bf19225361550731f6e7bcc424cb4b1582b97771a944e44a45"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/026-36b17915bea3.wav",
+      "duration": 8.910333333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4365259d8d81",
+      "audioSha256": "36b17915bea3fc2f03ecf70989d974c9aa122e5eece6a3331aa14457ab26d8ab"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/027-1744ba5f6002.wav",
+      "duration": 9.422208333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "99ea5c3da71b",
+      "audioSha256": "1744ba5f60021af5797331bf947f538c15b68d9e84ddd19b1dcff6a677fc19b4"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/028-cc9f980e165e.wav",
+      "duration": 10.58925,
+      "addedPauseSeconds": 0.4,
+      "textHash": "82f65f3a5962",
+      "audioSha256": "cc9f980e165e995d7af8cd29090c79033484a53d244be31ef09946bd9406caa8"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/029-7adbbd1e2993.wav",
+      "duration": 2.934125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "78a408f607f0",
+      "audioSha256": "7adbbd1e299334258d36bbf1a2b0c8726fd2b62f7a3eef234775b67dd6a80836"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/030-c8e0cb6cdcdd.wav",
+      "duration": 4.991666666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d38cd4415b70",
+      "audioSha256": "c8e0cb6cdcdde8052498ab6c54bc485cec19a3251c1c31b22c41c1bc3db30ced"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/031-22b2cd71d9e8.wav",
+      "duration": 6.670333333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "930a4a14ac43",
+      "audioSha256": "22b2cd71d9e8287989d3308889ad71704bf2e78b631422d2cd10b37a4045d2cf"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/032-ea09e3f1a0d2.wav",
+      "duration": 5.596708333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6e7ad900da06",
+      "audioSha256": "ea09e3f1a0d2b3f22e838b7585f7a74c376f66c2fb65722b9f4bbb6d18393753"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/033-91ca9d595b12.wav",
+      "duration": 8.696583333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "dac2526d6699",
+      "audioSha256": "91ca9d595b1261f9784fca7262108f0b1fb7e61a40cfd50ed260f36265febb0e"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/034-697b3b5a9cbe.wav",
+      "duration": 3.3502083333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e69c49ff47e6",
+      "audioSha256": "697b3b5a9cbeb2e77f22473fae843e5c2ad0984a8b4598e3bc5950d3aa751287"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/035-478a58b0959e.wav",
+      "duration": 2.4145833333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "d2fd876c20d9",
+      "audioSha256": "478a58b0959eb6d5956fae53d453397b511275838df688dfec1aa0a08c663767"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/036-fd68353bcc65.wav",
+      "duration": 8.696708333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "373e4f092acb",
+      "audioSha256": "fd68353bcc65708372d0c51732e833506ad2087e20ef2985723bebbf75c68a34"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/037-e1c473106d38.wav",
+      "duration": 7.450666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c79a0731eeb6",
+      "audioSha256": "e1c473106d3891f1b98fc63d397c0fec9d77ba94fd20ee40cd9f81db20ec5abf"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/038-498286309694.wav",
+      "duration": 2.5452916666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "93dfa71e46f0",
+      "audioSha256": "498286309694e636990ef4c363883b5e0f7ba93a6572590244c69f7b22a383eb"
+    },
+    {
+      "src": "/audio/articles/last-goodbyes/039-7cd3493c5014.wav",
+      "duration": 1.545375,
+      "addedPauseSeconds": 0,
+      "textHash": "77337b65bf76",
+      "audioSha256": "7cd3493c5014a82f579bcb9aedb2f95a134b3124a8cc11ac17ef05327f13d0f0"
     }
   ]
 }

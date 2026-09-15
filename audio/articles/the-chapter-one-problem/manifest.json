@@ -1,35 +1,231 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:22:18.898167+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/the-chapter-one-problem/001.wav",
-      "duration": 31.575,
-      "textHash": "d0817148bd3b"
+      "src": "/audio/articles/the-chapter-one-problem/001-9f508c978c12.wav",
+      "duration": 4.820333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8dc1e3eae594",
+      "audioSha256": "9f508c978c127eac3e6c2b5bce051c2ac405c522fc99162f0c0ce344a9d0539e"
     },
     {
-      "src": "/audio/articles/the-chapter-one-problem/002.wav",
-      "duration": 20.125,
-      "textHash": "e0cf4ffddf21"
+      "src": "/audio/articles/the-chapter-one-problem/002-7ed85617756e.wav",
+      "duration": 5.50675,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3afb8b8596be",
+      "audioSha256": "7ed85617756ef82d46651c861225537bc11d169778c0ef198de833494fe13a1d"
     },
     {
-      "src": "/audio/articles/the-chapter-one-problem/003.wav",
-      "duration": 41.25,
-      "textHash": "2fab55c7752b"
+      "src": "/audio/articles/the-chapter-one-problem/003-b384a7e7c218.wav",
+      "duration": 4.181875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c1279e5d4cd4",
+      "audioSha256": "b384a7e7c218a3d48e8ff197e25fbc8a986fa370ebf1f16d93240ae89212f26c"
     },
     {
-      "src": "/audio/articles/the-chapter-one-problem/004.wav",
-      "duration": 20.025,
-      "textHash": "0d3182bf7bcd"
+      "src": "/audio/articles/the-chapter-one-problem/004-1028a9c74f59.wav",
+      "duration": 4.393166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "461df4760bf6",
+      "audioSha256": "1028a9c74f590de69fbf97fc855d4e2837bc2e9b825e2f47cdd08485d197087f"
     },
     {
-      "src": "/audio/articles/the-chapter-one-problem/005.wav",
-      "duration": 3.475,
-      "textHash": "648919088ef2"
+      "src": "/audio/articles/the-chapter-one-problem/005-b2b1d81ec023.wav",
+      "duration": 8.005625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e5972f9659f3",
+      "audioSha256": "b2b1d81ec023f2fc45d9d8c140bb3d9177d05f958f8b4f3962ccf4758b5d61ff"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/006-e759dcc492ab.wav",
+      "duration": 3.009916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f09381bff917",
+      "audioSha256": "e759dcc492abfcce27bf3dc375de69cd3b12aa819b674238ec3e4ed42da59a99"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/007-e7ab4fd99861.wav",
+      "duration": 6.190333333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "82df2064b0e3",
+      "audioSha256": "e7ab4fd99861b5057b125703cb0588fe446a8659d9aaa8c9b1db57f3a35c1247"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/008-c0deaaebbad5.wav",
+      "duration": 3.9133333333333336,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8d1cd0877de1",
+      "audioSha256": "c0deaaebbad53596348ad5de7f168c51df288009b04d8b5d62ff26bd5755f05d"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/009-30a065f67e46.wav",
+      "duration": 3.3542083333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e24a73bac8a5",
+      "audioSha256": "30a065f67e4665fe8be2a7f676eb2e8f1c1992546fe8e5a94d097cfcd1e83d17"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/010-88a8896ddd69.wav",
+      "duration": 6.621791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "55615acb466e",
+      "audioSha256": "88a8896ddd693ae30a1069a4a033398a010b85d9aeff5d9f1f7340252acb086d"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/011-7f8690239741.wav",
+      "duration": 9.37825,
+      "addedPauseSeconds": 0.7,
+      "textHash": "eef03f5cd34b",
+      "audioSha256": "7f8690239741ea4ca6670e91675a6b28cb27fe5f3595f44a276bfbd47ccb81e6"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/012-ca123cba829d.wav",
+      "duration": 7.487875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0ce13b12b2d2",
+      "audioSha256": "ca123cba829d70610135dd7ccf23758499cac837ea514c7a1b864c25c7afe16b"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/013-28c5383ad4a4.wav",
+      "duration": 3.0985,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4157ef750b23",
+      "audioSha256": "28c5383ad4a412c52b3f4d6acf0c572d3a72cbb40e8057ee9a488f528547d9a0"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/014-8cb1f9f0f98d.wav",
+      "duration": 4.7796666666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0fe5ed3ee53e",
+      "audioSha256": "8cb1f9f0f98de9ba86a0264c469a6fcada762c9e0b77f16cc43494fd1e6ae675"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/015-ab4c23f8a6f6.wav",
+      "duration": 6.493541666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "061432b55d4f",
+      "audioSha256": "ab4c23f8a6f6560a9fb16289da851ae6c46f4dd2dcf31e60c8226ff53a9027b7"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/016-6719c97b1ae3.wav",
+      "duration": 2.0297083333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ef5f20f37e75",
+      "audioSha256": "6719c97b1ae3da3b225e97998f7cebc1d6a3c2f200db651acb8adb75559f9a9d"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/017-a6b42513f219.wav",
+      "duration": 1.935875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b44583048718",
+      "audioSha256": "a6b42513f21962561f258147d2d81bcb656fd7b5ccced137d808c9804b165359"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/018-0ac8dcdcd005.wav",
+      "duration": 6.490875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "de6530280ea1",
+      "audioSha256": "0ac8dcdcd00590c0917409e248b9f770c6c0d9f5b161479b8d9f3957e9c49c58"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/019-b6e981979d54.wav",
+      "duration": 4.683416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "551b252859f7",
+      "audioSha256": "b6e981979d54664aa616933d11227ca491d4bc6e864a11f6aa5abe42e1256800"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/020-c498041e6130.wav",
+      "duration": 3.0580416666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "dc0f2b884e9a",
+      "audioSha256": "c498041e613039a9a7d89fc9657320c8ee193fd14dadf785b7652f505e860101"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/021-57d6134b4bba.wav",
+      "duration": 2.246125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0bcd7de86cb6",
+      "audioSha256": "57d6134b4bba69f279fdcc451312472a5b63a33264592185c0dd03428604652c"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/022-f74b89d55bf3.wav",
+      "duration": 2.24375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "947de90e4467",
+      "audioSha256": "f74b89d55bf328803c757ee6c47b3d530095becd07a0ba881c46126773a6a716"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/023-9621272a342d.wav",
+      "duration": 5.634708333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "05101f5169ab",
+      "audioSha256": "9621272a342dafc87d1648204e3f949f91c30f37df046ef435daa3e764ee850c"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/024-7de90a812683.wav",
+      "duration": 5.124375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "fd4f8eda59e5",
+      "audioSha256": "7de90a81268305ab8c501f560945fa23cf87d8a7959e184de02fc3d8b68166f7"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/025-ec4b6148290c.wav",
+      "duration": 6.575708333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6f135c2a9b1c",
+      "audioSha256": "ec4b6148290c56018427c28576c5f47ffe3e703971dddb08624f42680bcad11e"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/026-8397bf8b804d.wav",
+      "duration": 2.103875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9a85417caa09",
+      "audioSha256": "8397bf8b804ddf6ad411344eeb61b72c5195c7b7554d3a9e4da8e763ccc049f4"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/027-57067ebe4f70.wav",
+      "duration": 2.6751666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2d034639a64d",
+      "audioSha256": "57067ebe4f70f3039a356407ac3d3d4df37679a59941f0424ad2317e067fb878"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/028-a3afd848b174.wav",
+      "duration": 6.964625,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f0228a9023ee",
+      "audioSha256": "a3afd848b17480e8fd5cc3bc9c2b3202a8427415a991487324a12cf88ac1215b"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/029-febd61618ebe.wav",
+      "duration": 2.4074166666666668,
+      "addedPauseSeconds": 0.4,
+      "textHash": "aa8f0b3dd392",
+      "audioSha256": "febd61618ebe416be4e9b9678d771820904372e00e1f186907336fc70c38c546"
+    },
+    {
+      "src": "/audio/articles/the-chapter-one-problem/030-ff8f436c2bd8.wav",
+      "duration": 1.7939583333333333,
+      "addedPauseSeconds": 0,
+      "textHash": "9d3b6bd51b6a",
+      "audioSha256": "ff8f436c2bd8f15d4aaa337b428dda3b9872ceb9d4d069e9d1ef37322759d6e1"
     }
   ]
 }

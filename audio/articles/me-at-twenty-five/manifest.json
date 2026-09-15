@@ -1,80 +1,497 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.913Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:55:06.119165+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/me-at-twenty-five/001.wav",
-      "duration": 11.775,
-      "textHash": "14b2f8a56da2"
+      "src": "/audio/articles/me-at-twenty-five/001-04623e897849.wav",
+      "duration": 4.29825,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a8cb8b3f5768",
+      "audioSha256": "04623e8978492f2acb7a52af836379038907d2733e7d6893382cf0c83bc65d94"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/002.wav",
-      "duration": 33.875,
-      "textHash": "c361f4786fb5"
+      "src": "/audio/articles/me-at-twenty-five/002-e1f6b407cd0f.wav",
+      "duration": 8.167666666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "bbb87d09f327",
+      "audioSha256": "e1f6b407cd0f7348bb964c9b99d817ed8fee6e55998edc926dbfeb51cb6051c0"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/003.wav",
-      "duration": 13.525,
-      "textHash": "1917fc623b30"
+      "src": "/audio/articles/me-at-twenty-five/003-eba22e69dc33.wav",
+      "duration": 6.3613333333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1f3173f0ee31",
+      "audioSha256": "eba22e69dc33ffa2dc5ea4be8b701a329640c64ee526c5dfbf2ceefb539ea64c"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/004.wav",
-      "duration": 18.75,
-      "textHash": "282071381369"
+      "src": "/audio/articles/me-at-twenty-five/004-ccb09276f9bb.wav",
+      "duration": 5.289416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "31ada82d48ad",
+      "audioSha256": "ccb09276f9bb29f9ef187eb02b059d94789427b0a760c95d65a68fe52dc45c6b"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/005.wav",
-      "duration": 27.65,
-      "textHash": "3716aae24329"
+      "src": "/audio/articles/me-at-twenty-five/005-390de296392d.wav",
+      "duration": 7.662458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b029a2d753ec",
+      "audioSha256": "390de296392db32bcb89a0429ccc7c718d6196707eeff362c1caa0e1506e3c24"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/006.wav",
-      "duration": 17.45,
-      "textHash": "c954db9b9ce0"
+      "src": "/audio/articles/me-at-twenty-five/006-2de89d3d57c7.wav",
+      "duration": 15.178833333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "8c3ff3ea944f",
+      "audioSha256": "2de89d3d57c7669e3df847be6e163e5da808e1a14d1a39c6e12692f69e8193c5"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/007.wav",
-      "duration": 26.8,
-      "textHash": "93b560d106d5"
+      "src": "/audio/articles/me-at-twenty-five/007-33df15795502.wav",
+      "duration": 6.45275,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4767f7882f19",
+      "audioSha256": "33df15795502cf8f734463937d17174ddfaf8e394195fc01d8efd6a2e2c91b5c"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/008.wav",
-      "duration": 25.85,
-      "textHash": "40af63090a85"
+      "src": "/audio/articles/me-at-twenty-five/008-f76af5924a09.wav",
+      "duration": 5.291041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "60b010a44edf",
+      "audioSha256": "f76af5924a098b96299fe710e7b6dde6c16c2ab404306e35d0e26a6889224f2c"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/009.wav",
-      "duration": 34.5,
-      "textHash": "2c3adb98a10a"
+      "src": "/audio/articles/me-at-twenty-five/009-6a6b01906aa9.wav",
+      "duration": 3.7414583333333336,
+      "addedPauseSeconds": 0.7,
+      "textHash": "c5540fd789ae",
+      "audioSha256": "6a6b01906aa9b3fb5028c1c04b1ca68397322aabafdeb28521d72d8eab4060f2"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/010.wav",
-      "duration": 9.375,
-      "textHash": "18d563ee1192"
+      "src": "/audio/articles/me-at-twenty-five/010-2a35cc618971.wav",
+      "duration": 6.325166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ef1cf337f80a",
+      "audioSha256": "2a35cc618971cdb4590b9eb721cb84fa636b1d1881c2e31e03949347ca96a2b5"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/011.wav",
-      "duration": 20.5,
-      "textHash": "41788fc49278"
+      "src": "/audio/articles/me-at-twenty-five/011-498639c30603.wav",
+      "duration": 7.483125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b7750d8f36b0",
+      "audioSha256": "498639c30603322ad5cfca23d5af065d4b679477c310b39f78072392a4a71613"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/012.wav",
-      "duration": 17.75,
-      "textHash": "a9efca885326"
+      "src": "/audio/articles/me-at-twenty-five/012-edeceeb9f81e.wav",
+      "duration": 4.569,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0ba4f4d2160a",
+      "audioSha256": "edeceeb9f81e43fa6cd29b46c1858359886009f8a08c4ced3c0fe8fc8e79f4f4"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/013.wav",
-      "duration": 17.55,
-      "textHash": "1c79b6237581"
+      "src": "/audio/articles/me-at-twenty-five/013-ed9a13ee073b.wav",
+      "duration": 3.529333333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "57ecc5904ec9",
+      "audioSha256": "ed9a13ee073b23a4b8ad1c8f4a5248c08b1680df6ce1161148c8414efbf5dd7f"
     },
     {
-      "src": "/audio/articles/me-at-twenty-five/014.wav",
-      "duration": 24.45,
-      "textHash": "e09ea6a84c6b"
+      "src": "/audio/articles/me-at-twenty-five/014-65e78b6f7e1f.wav",
+      "duration": 9.722666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d19e75943358",
+      "audioSha256": "65e78b6f7e1ffac45043957f630e1ace286c2b618420133582719125440a8583"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/015-a0a3cdc38f7f.wav",
+      "duration": 6.837208333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b4208be3943c",
+      "audioSha256": "a0a3cdc38f7f0929f72c9eed3ff0607a3172dd60a418383286777caa5934a350"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/016-beeaf0cd8dfd.wav",
+      "duration": 4.825208333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8f0306c8ecbc",
+      "audioSha256": "beeaf0cd8dfdc9526e05ec77cf6c11d96a304196961feebe66dac9dd704a34a2"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/017-02f861789ad8.wav",
+      "duration": 5.982958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "900186cfa572",
+      "audioSha256": "02f861789ad8ef9d78e4870f6e9baf481d44be57571d191076b5ade5e364afd4"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/018-a65dd3bf47e6.wav",
+      "duration": 6.61875,
+      "addedPauseSeconds": 0.7,
+      "textHash": "b60ef50eace6",
+      "audioSha256": "a65dd3bf47e6f2972f6523bb86eb93676a694af98aeecdc41690874a231ff499"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/019-536c78d8c953.wav",
+      "duration": 2.4175833333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "01ad0c39976a",
+      "audioSha256": "536c78d8c953440c7696f4a65e4a510173035a250fd12d2c0c88a214fad00703"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/020-3d070d149148.wav",
+      "duration": 9.335666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cf65b2cb3df8",
+      "audioSha256": "3d070d149148cfdbab914b7b314f3f7a4447e3b3a20565a9d524e672ff3612d2"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/021-644475bec7ee.wav",
+      "duration": 7.96525,
+      "addedPauseSeconds": 0.7,
+      "textHash": "019def499faf",
+      "audioSha256": "644475bec7ee754d69649cdfb5179da5bf97406cbd14deada9fefb2e2866c53f"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/022-8f554cce0562.wav",
+      "duration": 1.9445833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e3310a06ea1e",
+      "audioSha256": "8f554cce0562ad68fc587d35a425fa5909ba239e4f265e0a32837ecd405eccaf"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/023-4d26c0dc7989.wav",
+      "duration": 5.0339583333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d8a8f069c6e3",
+      "audioSha256": "4d26c0dc7989c3fe9546b97bfb3c38bbbe9b84dff264505638e14cca931c996c"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/024-a49d94a54293.wav",
+      "duration": 4.3544583333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "71bbfedf1867",
+      "audioSha256": "a49d94a5429319394a5f32f204ad5f5112ca359052c191257d0e9d27444740f8"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/025-40798267e80a.wav",
+      "duration": 7.318416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2640cdaaa3ce",
+      "audioSha256": "40798267e80a1829fdc85f1bdf9b4b51ab52589d0ad528109078b6b1eefbb215"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/026-0c8c29b46a5b.wav",
+      "duration": 7.91325,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f9646ae13532",
+      "audioSha256": "0c8c29b46a5b541b3b2ed62064db48d3c9e5247587d8c7370fce56579b98fb35"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/027-1c30ae64ee89.wav",
+      "duration": 4.263125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f2a014333a7b",
+      "audioSha256": "1c30ae64ee8913b754e3125884814ff5d1836b9c37e50b14fcf9ee845f6cf161"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/028-cdfc054d3058.wav",
+      "duration": 3.319125,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f945950e6461",
+      "audioSha256": "cdfc054d3058925422959f0a697ea1ca0bcc0a255b0b226099f22be43e506c8a"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/029-2fd9d5c974e8.wav",
+      "duration": 9.597666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "046a16228fdf",
+      "audioSha256": "2fd9d5c974e8f7e186a6a0bacfc9ed328ba79248cba8b7ba2e0e62a537488e70"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/030-ff4a7418e73c.wav",
+      "duration": 4.01075,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e4dbba9a4513",
+      "audioSha256": "ff4a7418e73cdffbe136c2541426c29f1eb97c8ac170503f0bc3a36d89c67f63"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/031-9ba47fea1c6f.wav",
+      "duration": 5.5129166666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f509d48ad00e",
+      "audioSha256": "9ba47fea1c6f278c608317a602993e95d6b7332eae6196a0efbbf759ba4c851d"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/032-ad040d1bd7ec.wav",
+      "duration": 10.711791666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "61c5ccf5d830",
+      "audioSha256": "ad040d1bd7ec3fb0348988df8db0fe17f97fb013e2fdde6cd3e775abfadcb0c2"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/033-8a1694188f74.wav",
+      "duration": 5.2945416666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1fae6e837c09",
+      "audioSha256": "8a1694188f7439031c85a90544ce5bbe930f214eed5e5e45759fe774469e044c"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/034-d00218a62f2d.wav",
+      "duration": 5.470791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "20b4e536d015",
+      "audioSha256": "d00218a62f2dbf1e7390d128eb179c72c2440118b3ddd04408b8861cb12f86d6"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/035-9b228e4e2f02.wav",
+      "duration": 5.980291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c07d679dc2ef",
+      "audioSha256": "9b228e4e2f024a9d96da95184f1d9c418dcea3d10bbd35dcbd4f8fb0f0161257"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/036-b86c5f557242.wav",
+      "duration": 11.181083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6f63167b6d3f",
+      "audioSha256": "b86c5f5572428f4c4cb4f5ae2afd933d20cc37ab2061a8aaa82dc5b038c318c7"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/037-98bc8667682d.wav",
+      "duration": 7.696083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "91f786905e01",
+      "audioSha256": "98bc8667682d91094652cf39b12b6411b929ce3fd4692609edda3baa2e9f911f"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/038-11322bc56651.wav",
+      "duration": 5.373458333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "7c092f824238",
+      "audioSha256": "11322bc566512671a03c8d10e1c05cf4326d721bb821a173ab96a738254a5664"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/039-f895fcdfa31b.wav",
+      "duration": 7.063875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0760a9a51051",
+      "audioSha256": "f895fcdfa31b249142aace184cc04affd142c7e4c1883456c87132f4b5e634e0"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/040-05a7ec0688bf.wav",
+      "duration": 3.448375,
+      "addedPauseSeconds": 0.7,
+      "textHash": "55d4aa404324",
+      "audioSha256": "05a7ec0688bf708bb82b6b5656b80399ccced0778c0f13db38f91130f82806ca"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/041-bc4b0252db8a.wav",
+      "duration": 7.878125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "802175e0ced2",
+      "audioSha256": "bc4b0252db8adfeb3a8bdcab3d02f6d56e3154cae04ef6055861fbcbb05aa0c5"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/042-6d9fd800352c.wav",
+      "duration": 2.5023333333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6cd3ae5e2fb0",
+      "audioSha256": "6d9fd800352c44ad84b8325e8f00beedac8b024f1ceb6179eea40b7a7bf9bd00"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/043-6544e9595442.wav",
+      "duration": 7.920333333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d65a12ac548b",
+      "audioSha256": "6544e9595442f092fd87d7d581d2768a47418fe97b665a60f6bc8c39401fbe79"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/044-d896467563af.wav",
+      "duration": 4.090083333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "4ec35208b10c",
+      "audioSha256": "d896467563af40151e1ec7fd9bcb41fe6254b9a275edfa02cabe2a2ed3078c6d"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/045-c707999ba9ff.wav",
+      "duration": 2.7552083333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0c321e570e28",
+      "audioSha256": "c707999ba9ff3db6fe7506dc3dc20ba53cf9acfdb00b01a2b30a43e941399ff3"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/046-b66bedbf3321.wav",
+      "duration": 3.2732916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7629115dfa33",
+      "audioSha256": "b66bedbf3321392357a3eb72d3ccf56e0fa0191653c24b596b706409b8ccefb8"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/047-d9972941a1c2.wav",
+      "duration": 0.9850833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6bc54f13bea5",
+      "audioSha256": "d9972941a1c2be42b53e74c2f12c442b9da008dce141fe450ffab0cc490f14b3"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/048-b403ebb917d9.wav",
+      "duration": 2.4111666666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "76b2010d7c1b",
+      "audioSha256": "b403ebb917d9e585e0db67d7e13cc3e800e6c4469b1c0f87804f8cfff14ce538"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/049-8e9a8f59580c.wav",
+      "duration": 1.0716666666666668,
+      "addedPauseSeconds": 0.4,
+      "textHash": "267c23695b6e",
+      "audioSha256": "8e9a8f59580c310abfe63ebb4694c501d7383a7aa2a3274cfa12fa423f04bd2a"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/050-581340f4efde.wav",
+      "duration": 4.130333333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "eda0af22dca9",
+      "audioSha256": "581340f4efde13cba62728b6392e912a16d605b9fbbb4f78fcc223e3bb1cb626"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/051-30015e0d08ba.wav",
+      "duration": 1.2480416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "23f663630e2f",
+      "audioSha256": "30015e0d08ba9ca50dc25cc1bf3ad5d2ef713eead5c9442c026e665779575e6c"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/052-7e1df52d4dc4.wav",
+      "duration": 5.070708333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "682696ba3490",
+      "audioSha256": "7e1df52d4dc4ea2d962703c8d37383639d0d0d0d5eed16abcc8ae95920ac01c5"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/053-f91f914af3f8.wav",
+      "duration": 2.8462916666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "9548aa34d690",
+      "audioSha256": "f91f914af3f8f5213457054e473b31779cb0aa4771db479e420a455240270f90"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/054-b52225406b43.wav",
+      "duration": 4.047166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "dd36292897c5",
+      "audioSha256": "b52225406b43007d0536cf8d98a20d43add595f62727b358ac8327b33962588a"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/055-6e0312c7c3af.wav",
+      "duration": 2.190375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "195f9182c9ae",
+      "audioSha256": "6e0312c7c3af90bfeaca41a7447276cc4482218c95997fc5257a6be0692c1984"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/056-fb50a38d1991.wav",
+      "duration": 0.9850833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6bc54f13bea5",
+      "audioSha256": "fb50a38d1991866c636d42dfcdf8e941ede1e19453c9c8a2bc996860488def34"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/057-e2c11d924e20.wav",
+      "duration": 1.9455833333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1c582f28e669",
+      "audioSha256": "e2c11d924e208a298e98391db48d4548790412ef4e7873bf4f15873ea0283b95"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/058-3129d3bfd080.wav",
+      "duration": 4.002083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7aa5b02e8271",
+      "audioSha256": "3129d3bfd08093b0033bb77dc8d75e3ac429914292f047e7f8fa738a12dba91f"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/059-38c20b056946.wav",
+      "duration": 1.0716666666666668,
+      "addedPauseSeconds": 0.4,
+      "textHash": "267c23695b6e",
+      "audioSha256": "38c20b05694697ed78f409cc9e49090a14ffb637329ce4f7d6e1cd588f990f28"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/060-d5c85fce1b3c.wav",
+      "duration": 3.053541666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5d93982dec50",
+      "audioSha256": "d5c85fce1b3c10d91ac760338c9fa709c03c29c24c488420884ac1047c5ce0b6"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/061-1e5f54313e08.wav",
+      "duration": 1.2480416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "23f663630e2f",
+      "audioSha256": "1e5f54313e080c36252998c938b023124162537159d081fc39df4107de623e75"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/062-aa15c9545ac1.wav",
+      "duration": 3.3141666666666665,
+      "addedPauseSeconds": 0.7,
+      "textHash": "76d56c5f88ac",
+      "audioSha256": "aa15c9545ac1cdedd08031fae62c2c1f8c9edc5dac6198886ae441ce8b92c035"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/063-5693657cfdc4.wav",
+      "duration": 3.8760416666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "169d2dcdc6db",
+      "audioSha256": "5693657cfdc4bc90fb165203242c12e1efdf7ca28eb3a834110e10fd8b05fb29"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/064-0519e547032a.wav",
+      "duration": 3.3165833333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "09ddb9e605a0",
+      "audioSha256": "0519e547032a8a7c592deff4975d896a3e9d80bcb0e5971b59fb1b121be10b65"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/065-c50a7157d2f1.wav",
+      "duration": 5.634291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a8efc97d52dc",
+      "audioSha256": "c50a7157d2f147b4b66b0e3722e1b43ad58d2f73be8df1c73b66545384ba740c"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/066-40c11787405e.wav",
+      "duration": 10.359416666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ca929edf0b84",
+      "audioSha256": "40c11787405e9bfb34461f6a0202d1b6d67719e8a5670f2df05167930adc16c5"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/067-f948b163df08.wav",
+      "duration": 1.6305,
+      "addedPauseSeconds": 0.4,
+      "textHash": "acdd58525e56",
+      "audioSha256": "f948b163df084aec76c3e9a3f84d1b504ea197ac74b88e83aad92cb006f23718"
+    },
+    {
+      "src": "/audio/articles/me-at-twenty-five/068-c1fbc9e20026.wav",
+      "duration": 1.7154166666666666,
+      "addedPauseSeconds": 0,
+      "textHash": "1149036c5c0c",
+      "audioSha256": "c1fbc9e200261ea946dd187872bdb79a1861b589f9a4ab6cd1d494baee7e42cb"
     }
   ]
 }

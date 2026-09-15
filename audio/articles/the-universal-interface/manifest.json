@@ -1,60 +1,518 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:19:45.790586+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/the-universal-interface/001.wav",
-      "duration": 20.15,
-      "textHash": "f1482bdea7f6"
+      "src": "/audio/articles/the-universal-interface/001-d55b8d2b1375.wav",
+      "duration": 8.428916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "53f7dc7d85ba",
+      "audioSha256": "d55b8d2b13756c29e951e721a463dc74be10201248f5b2ccc369407be7e6fe8f"
     },
     {
-      "src": "/audio/articles/the-universal-interface/002.wav",
-      "duration": 25.575,
-      "textHash": "66739a836b24"
+      "src": "/audio/articles/the-universal-interface/002-1f95403ff4d5.wav",
+      "duration": 5.342625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7e74d5eb3310",
+      "audioSha256": "1f95403ff4d5f3757cc86649c2569e5b75645095b21802286ce5ad00639db33a"
     },
     {
-      "src": "/audio/articles/the-universal-interface/003.wav",
-      "duration": 54.35,
-      "textHash": "17f92d4ac84c"
+      "src": "/audio/articles/the-universal-interface/003-b466bf5d107b.wav",
+      "duration": 7.481625,
+      "addedPauseSeconds": 0.7,
+      "textHash": "a45001eba0b9",
+      "audioSha256": "b466bf5d107b8030b98f8a5843b724f4c1722a09c95bd272ae2316a07489f34e"
     },
     {
-      "src": "/audio/articles/the-universal-interface/004.wav",
-      "duration": 25.475,
-      "textHash": "a0a0671be7c0"
+      "src": "/audio/articles/the-universal-interface/004-f0d3d640f57c.wav",
+      "duration": 1.7235833333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c56e6557abdf",
+      "audioSha256": "f0d3d640f57c399a4faeaa6ebbff4257a4caa2f86613b08e765fef6f768a66d3"
     },
     {
-      "src": "/audio/articles/the-universal-interface/005.wav",
-      "duration": 53.55,
-      "textHash": "bc534c8f4bda"
+      "src": "/audio/articles/the-universal-interface/005-122a2f130f7d.wav",
+      "duration": 6.02525,
+      "addedPauseSeconds": 0.4,
+      "textHash": "eb85609cea43",
+      "audioSha256": "122a2f130f7d3b724a69603c51a12201fb625704cfa66bca2118be8ddcc88b51"
     },
     {
-      "src": "/audio/articles/the-universal-interface/006.wav",
-      "duration": 27.375,
-      "textHash": "a3e71010e81b"
+      "src": "/audio/articles/the-universal-interface/006-7cf83b9de4cd.wav",
+      "duration": 5.50775,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1d1afd35c892",
+      "audioSha256": "7cf83b9de4cda54203d73bf59b90e2946cbbcbd2a7dbffab5d96c5ba91f6913a"
     },
     {
-      "src": "/audio/articles/the-universal-interface/007.wav",
-      "duration": 15.2,
-      "textHash": "a3c4a9bf7adf"
+      "src": "/audio/articles/the-universal-interface/007-090d3905bc64.wav",
+      "duration": 9.472958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "abab500f3d78",
+      "audioSha256": "090d3905bc649903d141836b80bc24c7dadc511e5d64b37a1adc55e1d1568b5a"
     },
     {
-      "src": "/audio/articles/the-universal-interface/008.wav",
-      "duration": 50.05,
-      "textHash": "bec08723e84c"
+      "src": "/audio/articles/the-universal-interface/008-b2bc244d27dc.wav",
+      "duration": 5.114708333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "e9a8bebbe96b",
+      "audioSha256": "b2bc244d27dccac388325ab086bcab6837cd541df358da9c8c6c06ca44042309"
     },
     {
-      "src": "/audio/articles/the-universal-interface/009.wav",
-      "duration": 25.55,
-      "textHash": "58af6998cc85"
+      "src": "/audio/articles/the-universal-interface/009-17b26d283784.wav",
+      "duration": 5.293458333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cd54a66e8afa",
+      "audioSha256": "17b26d283784e4f898469c332826d9a174fe25a6a9fb3975a34bb256a0923f99"
     },
     {
-      "src": "/audio/articles/the-universal-interface/010.wav",
-      "duration": 47.775,
-      "textHash": "44ddea7845be"
+      "src": "/audio/articles/the-universal-interface/010-a9cdf4d0f07a.wav",
+      "duration": 3.524958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1039df73d506",
+      "audioSha256": "a9cdf4d0f07acfcf9cb1c15535443834f6b04774da3b705492ea23bf3e987ab8"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/011-a3cc875731ce.wav",
+      "duration": 15.45125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0d6014c562ce",
+      "audioSha256": "a3cc875731ce687870a3fb68d7a1e73f0cdd115162f91eeec71c7384b297bf48"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/012-d9a7ebf00a93.wav",
+      "duration": 3.3619166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1e04e4c11b7d",
+      "audioSha256": "d9a7ebf00a93802efc29e23c5813c34704813520b021e92a3024dfc079fa2458"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/013-74f2e910d8dc.wav",
+      "duration": 2.0742083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "68b309986fdf",
+      "audioSha256": "74f2e910d8dc004a184b6bb5c953de718b51ca830fafd127ec4c9bfd010e6171"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/014-503ca909603d.wav",
+      "duration": 4.353791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "eec9069fac75",
+      "audioSha256": "503ca909603d8a7d4257711b7abd3272b26cdb876bdd360013757031195dbbcc"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/015-465a00de0c1f.wav",
+      "duration": 3.7943333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "36037c802aea",
+      "audioSha256": "465a00de0c1fc4e26a141bc90d9d16aad41c10e1cd801aefa044f4c354fd26e4"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/016-54476af40836.wav",
+      "duration": 3.1789583333333336,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7fe69691877d",
+      "audioSha256": "54476af40836e2a5c57140f11fa411954b3422fec2e76199d3a2074688815500"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/017-e98914ee4921.wav",
+      "duration": 5.254625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3e508652b31c",
+      "audioSha256": "e98914ee4921bfb194f8824f2625fa06d1f9a66b3567eef866d77206d8eda8ad"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/018-21ee57b16003.wav",
+      "duration": 4.816875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "37ff3c1c6390",
+      "audioSha256": "21ee57b16003f818ba45ca222264684ee1093855e68a4957a607828bb18c9b79"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/019-5f445b898fe2.wav",
+      "duration": 8.09275,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6fefa7d9b82a",
+      "audioSha256": "5f445b898fe22ed2d9c9a3880c2fd2f9818ce2aa2ef719e487bdeab6e927b051"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/020-4c6b5685a572.wav",
+      "duration": 3.2247916666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "20e6beca36e2",
+      "audioSha256": "4c6b5685a5724e0705c359a07edfdadd0be193822bebcc01395f0319d14aa58e"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/021-ec698589961a.wav",
+      "duration": 3.6550416666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "320ea3ad1c59",
+      "audioSha256": "ec698589961a2754e3ca977b9ca9b1f868c6d62e47f465bd459d1de7867ff157"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/022-791389c1e8a8.wav",
+      "duration": 3.535625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "be1cc919cb59",
+      "audioSha256": "791389c1e8a8e40c144fb171cee1463283cebf5862026c82debda7904fe2e030"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/023-8717b0343d7a.wav",
+      "duration": 6.977416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "10fb27bda1f8",
+      "audioSha256": "8717b0343d7ae25ba8b702f82a3f2fe354db470d0bdf5e87a1616a5ea0206fe2"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/024-6f37f3495c7a.wav",
+      "duration": 5.335083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6e3b0d3cee6f",
+      "audioSha256": "6f37f3495c7a6ca74e1694a1ec8db30916380482a617def0b08610e37a01d8e4"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/025-3c0ef9be0829.wav",
+      "duration": 6.504666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "70327879bcfc",
+      "audioSha256": "3c0ef9be0829c80419e6eaf4edad93509af91e747308aaf17f917bfe25fbca34"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/026-c67a43db6149.wav",
+      "duration": 7.529416666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "0418f6068de8",
+      "audioSha256": "c67a43db61497deaf0338a4912cc149a32227d67b12eb88e31b3fefcc609c512"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/027-f62f4a11a9c1.wav",
+      "duration": 7.480958333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "864a6499c8bb",
+      "audioSha256": "f62f4a11a9c1f20c5266d91179d9ec1f1c4a159f6ac24f0033ce4e4bf4d420b3"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/028-6054f7d15dd0.wav",
+      "duration": 7.357166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6d6a3ef44ece",
+      "audioSha256": "6054f7d15dd0054a7eda5c9e575100999fe1db8f616c7780d55a1e86ceec529b"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/029-21871e274627.wav",
+      "duration": 5.815666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "dbe4dfd6357e",
+      "audioSha256": "21871e274627e99fcd3d388d0314cdefc43a05dea73c1b15714e946a67460162"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/030-11bde3d8730a.wav",
+      "duration": 5.336833333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "86a5a845d2f1",
+      "audioSha256": "11bde3d8730af907d457f038265fefc787b148bd83b95e3bfc9dbf2d1768595b"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/031-de3f97b1ed13.wav",
+      "duration": 4.0525416666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5b597a4f5527",
+      "audioSha256": "de3f97b1ed13f2cfa6b7e1f50e5ee4ce2fdbfcec09a2848cc3e9a75b02dd229f"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/032-0199d8c2e124.wav",
+      "duration": 4.565375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e19d5f5980e9",
+      "audioSha256": "0199d8c2e12445b66b3173e164305fd8b6f8b9afe0efbfd4068cafb8764d4035"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/033-495f8282a30e.wav",
+      "duration": 8.473208333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6f2b5d9589c7",
+      "audioSha256": "495f8282a30e800235ad129fd739070a852be336174e6aadb965bb629acac914"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/034-df66cfa7bb46.wav",
+      "duration": 2.2030416666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "85db5fd267d0",
+      "audioSha256": "df66cfa7bb46326ceaba2030d826eab187b3bc99efc59f4a6e3989d7cda34274"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/035-3b0b87c9b3e8.wav",
+      "duration": 6.705,
+      "addedPauseSeconds": 0.4,
+      "textHash": "273204399bf5",
+      "audioSha256": "3b0b87c9b3e85b0af738b40476841b0100d99a6e9212b05dd0c591d7f7c0d798"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/036-8c8487933890.wav",
+      "duration": 3.610333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5888d1a4b792",
+      "audioSha256": "8c84879338908dd623fd493ef58c97e37796b546bd288ee634e02519d9fab203"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/037-f9b71ab3b31b.wav",
+      "duration": 4.863916666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f1343d643eec",
+      "audioSha256": "f9b71ab3b31b04239adc8f0c9f8de308a378b690d4df103c930d64955ed44156"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/038-3685906f3b64.wav",
+      "duration": 3.183666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b966b806cdab",
+      "audioSha256": "3685906f3b641de9ee78fbcf8fc72241269e33d12ea4fe0bbd904c0dd81d8110"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/039-a73b62452666.wav",
+      "duration": 4.17675,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9aa5ef485dba",
+      "audioSha256": "a73b624526667dfcbc099aaa45f69f24ff53bbac8f9a9a7a3b5d8932ce88ae7e"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/040-4bca5983c410.wav",
+      "duration": 4.731375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b60a9ce21f5e",
+      "audioSha256": "4bca5983c410ef8d1a602b835d373f1f51b669863b65542dcb21512d3b750c24"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/041-1235d22f537b.wav",
+      "duration": 6.763125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b17188d4f278",
+      "audioSha256": "1235d22f537b984e782e0fab8c580ccb78fbc20bef9a69f7525c2c69390a10db"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/042-2d7ea8fc6e65.wav",
+      "duration": 5.893458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7b838d15c66d",
+      "audioSha256": "2d7ea8fc6e657d4fd6e778b66c5387217ee8b9eb6cc8329ff442a415befab3a4"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/043-af93915ce639.wav",
+      "duration": 7.566791666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "856e9af1a268",
+      "audioSha256": "af93915ce6391971be5448882f5f2ce9a5fed19ec693cf29670db0616254a355"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/044-9e52d8c6c223.wav",
+      "duration": 3.6205833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a0759ebcde7a",
+      "audioSha256": "9e52d8c6c223753d4fc2a8b56a89a4dc4768c9cc37545540abc670bda7db48ac"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/045-30de017b79ab.wav",
+      "duration": 7.867708333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "256236bdefb8",
+      "audioSha256": "30de017b79ab77c89c5b9ad29ed2838dd26c5d4acd6f82dc35643d95bd1bc2c8"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/046-5404a93e5810.wav",
+      "duration": 5.8945,
+      "addedPauseSeconds": 0.7,
+      "textHash": "b3a2ebbfa872",
+      "audioSha256": "5404a93e581006921d72893cf2c97924aa86064bf4045c5a046eb78e88cd2505"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/047-180a6465aee0.wav",
+      "duration": 5.209791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "28f2397b6fa0",
+      "audioSha256": "180a6465aee0698633990e19ad4643987312efc89eb53866016bac0b5c28f4f2"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/048-8de8fd33a450.wav",
+      "duration": 7.095083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bf6911660c98",
+      "audioSha256": "8de8fd33a450d9f42c44134c31b04314b73491f12c66cf62aff30fcd595504ec"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/049-bb80158f0d36.wav",
+      "duration": 5.299083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "94d11cf6c0b4",
+      "audioSha256": "bb80158f0d36968d1971d79346bf40ba16e51deb7f2a2f4246b878838a58fd3a"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/050-62782800e584.wav",
+      "duration": 4.482833333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c537db99d7ea",
+      "audioSha256": "62782800e584b0393780f7ab395f61e563c5b481b97299a10cd887a76ce7f7c6"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/051-7c07471d0e89.wav",
+      "duration": 5.642083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a1b6c6c823e0",
+      "audioSha256": "7c07471d0e894885ff0d607a5b2b5c1ef6a445b4a0692859b6f85b1014c5fd65"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/052-73c0e38d58c5.wav",
+      "duration": 3.822791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "79f63b81d6d2",
+      "audioSha256": "73c0e38d58c5e24a3656c40615c8120daa6c80ef398bb812354398ee7a16eff7"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/053-fa27bd956b92.wav",
+      "duration": 3.607625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7da483106295",
+      "audioSha256": "fa27bd956b924edf0bbfc5e0c0e98aaaedb57d6f03e7d835965c69060eb38fe2"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/054-8349b063f364.wav",
+      "duration": 4.218458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1e8dea973073",
+      "audioSha256": "8349b063f3646063a097628e266206ea2dfbac5f0a90868bdadbbf51807ef72a"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/055-221ac0e10c3b.wav",
+      "duration": 5.421791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "858fbfa50ef3",
+      "audioSha256": "221ac0e10c3b57621d59cc1010d95e9d54d570b426d0a8bcd6f6f52a31460328"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/056-9c29081c9308.wav",
+      "duration": 11.915375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b5b4a6757d64",
+      "audioSha256": "9c29081c930829e21ce8f2b92cfc76f3fc9ccece0703a976add63c044200375f"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/057-625aec5c85c8.wav",
+      "duration": 7.5365416666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c01d99692ed6",
+      "audioSha256": "625aec5c85c8f2a45932460d93d93f0ffa86a25d7b49a64af1a6c1bcf31a5181"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/058-5dfbdd0cb039.wav",
+      "duration": 3.535416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5b0473fdf284",
+      "audioSha256": "5dfbdd0cb039e8088dbd45ba3c296f7dc8ecf0be61be9a0f145869410b2db2d5"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/059-9db7f6fbdaee.wav",
+      "duration": 5.465791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "aa0d71a92162",
+      "audioSha256": "9db7f6fbdaeef55660b03e73626cd87d6bd7a9e2979e4ad4f46afa9f637713be"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/060-5f7e79dbbaf2.wav",
+      "duration": 3.26675,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c5707d6e392e",
+      "audioSha256": "5f7e79dbbaf2b4b7036581648bb6f9ab5db483d6ae5187927f5f86a455309321"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/061-bd8c14a4bd30.wav",
+      "duration": 3.487041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bd61a1a1698b",
+      "audioSha256": "bd8c14a4bd308042953ad0e80867547feba2355d03bf1bc81d7eef27d540385d"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/062-ec2bf83b4e00.wav",
+      "duration": 5.981958333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "2639056c98a1",
+      "audioSha256": "ec2bf83b4e00a1e412d051feaa2e889f34e4a1ba49f7ecec693afe263a60817a"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/063-b43fab2ae610.wav",
+      "duration": 9.162041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6296157aafa7",
+      "audioSha256": "b43fab2ae6106d0fcf09cb02ad1599ea566f61a05a446ef707a8704602128290"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/064-7713e5f78f76.wav",
+      "duration": 6.97275,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0c701022512f",
+      "audioSha256": "7713e5f78f76315e149823b65e5ecebf53b9544120e5f9df11d9d98c4e59fe1d"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/065-ec5223afbf73.wav",
+      "duration": 4.7400416666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bc62349c1ad3",
+      "audioSha256": "ec5223afbf73867378497aca6c11598c725be3973190c2b37a95cb0fccabee03"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/066-26f7e01b765b.wav",
+      "duration": 4.096,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8b17578fb226",
+      "audioSha256": "26f7e01b765b391ef53bf79fcd1de481813dae162959f81236c3beef9963d33d"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/067-e2e48d842441.wav",
+      "duration": 7.494291666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "53fa899f986d",
+      "audioSha256": "e2e48d842441911affe9821e068c13b3b49bcfaa8f14a12dbad1414dad616b9a"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/068-baa3096b273b.wav",
+      "duration": 4.641125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f009e31adc58",
+      "audioSha256": "baa3096b273b1fad2169845168a3c867f053d43f257fa10c44dbc1fb16224570"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/069-d0edf91cd7c4.wav",
+      "duration": 10.0735,
+      "addedPauseSeconds": 0.4,
+      "textHash": "301d0ecd964f",
+      "audioSha256": "d0edf91cd7c4ad474e409b6af7940106e69cfb3c782a4ffefd49e0c76cab783b"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/070-141c95f2938f.wav",
+      "duration": 2.33075,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c462f87d6645",
+      "audioSha256": "141c95f2938fbf98bbf0632cb0f9c4543368858ef5ae70b16c482959c380d67e"
+    },
+    {
+      "src": "/audio/articles/the-universal-interface/071-7d991931321d.wav",
+      "duration": 5.670958333333333,
+      "addedPauseSeconds": 0,
+      "textHash": "b37b2cca6c55",
+      "audioSha256": "7d991931321dba7c2b31a3d1bed35103456120dd385a8db4edfad7244da659ca"
     }
   ]
 }

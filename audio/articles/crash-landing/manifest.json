@@ -1,40 +1,301 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:29:57.294220+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/crash-landing/001.wav",
-      "duration": 27.1,
-      "textHash": "5643ba45a25a"
+      "src": "/audio/articles/crash-landing/001-a4929d34c8b0.wav",
+      "duration": 6.634708333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b9ff53a9007f",
+      "audioSha256": "a4929d34c8b01d49971a939a542cc0bade40a4f40017b2cffd848e5ed9b5937c"
     },
     {
-      "src": "/audio/articles/crash-landing/002.wav",
-      "duration": 51.55,
-      "textHash": "9cadc8cb36a3"
+      "src": "/audio/articles/crash-landing/002-424e6d80e803.wav",
+      "duration": 5.468,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9f58819add7a",
+      "audioSha256": "424e6d80e803c010d77860fe7b229ba78580859104507745ba0acc50e08e517b"
     },
     {
-      "src": "/audio/articles/crash-landing/003.wav",
-      "duration": 5.525,
-      "textHash": "ae099bd9a200"
+      "src": "/audio/articles/crash-landing/003-8010f1428ca6.wav",
+      "duration": 1.3347083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6a870c8bab72",
+      "audioSha256": "8010f1428ca62eb625835e11375db5f126bf15c1b554a6972e60261de0263e6b"
     },
     {
-      "src": "/audio/articles/crash-landing/004.wav",
-      "duration": 27.1,
-      "textHash": "f6c383ca45db"
+      "src": "/audio/articles/crash-landing/004-3ce4a281449f.wav",
+      "duration": 6.022958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "02592787ebbb",
+      "audioSha256": "3ce4a281449fe28f78a70392b696908adfabcb48e76eb8adea2755195191ce2a"
     },
     {
-      "src": "/audio/articles/crash-landing/005.wav",
-      "duration": 26.875,
-      "textHash": "a248c11a9eaa"
+      "src": "/audio/articles/crash-landing/005-893f25735e85.wav",
+      "duration": 5.63175,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d67d6bef11c5",
+      "audioSha256": "893f25735e85a97596e0bddb4d0392ee963512048e6d234b99e62e45eb3295f1"
     },
     {
-      "src": "/audio/articles/crash-landing/006.wav",
-      "duration": 32.3,
-      "textHash": "988c4868cdc5"
+      "src": "/audio/articles/crash-landing/006-ebe1b57de00b.wav",
+      "duration": 5.897875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cb0222c75262",
+      "audioSha256": "ebe1b57de00b9f3407586a7ead7a50afce69bc83450deb0cd4fac2f82bb53904"
+    },
+    {
+      "src": "/audio/articles/crash-landing/007-2325ff669cce.wav",
+      "duration": 3.6963333333333335,
+      "addedPauseSeconds": 0.7,
+      "textHash": "9c273c004134",
+      "audioSha256": "2325ff669ccef4fd342f5201f45314f6158fbbc93d7d4b34aad841ca41458229"
+    },
+    {
+      "src": "/audio/articles/crash-landing/008-009cf88671ee.wav",
+      "duration": 9.07975,
+      "addedPauseSeconds": 0.4,
+      "textHash": "fb7c22760752",
+      "audioSha256": "009cf88671ee10e1dcf45fe33b82b7266bf573b388c6fcfd9f1993e528e27aec"
+    },
+    {
+      "src": "/audio/articles/crash-landing/009-b33c1a29f6fe.wav",
+      "duration": 9.124333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d846c9c72cc6",
+      "audioSha256": "b33c1a29f6fe548afcc6ecb71fe2137a3ee0dc4957414dcb28218fa6393aa36a"
+    },
+    {
+      "src": "/audio/articles/crash-landing/010-2aa9bdb09670.wav",
+      "duration": 5.122375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "993b75630d36",
+      "audioSha256": "2aa9bdb09670a3e7af72a8bc752e9d431a9c6e54f44f2cdba0b1df5c9679ea46"
+    },
+    {
+      "src": "/audio/articles/crash-landing/011-49d7b791a1b1.wav",
+      "duration": 7.9515416666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f5020a550634",
+      "audioSha256": "49d7b791a1b111857e65676dca8b01f1cf50770979832777814317f2987ec0c6"
+    },
+    {
+      "src": "/audio/articles/crash-landing/012-dc89eead0037.wav",
+      "duration": 3.186916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "26d3940c5477",
+      "audioSha256": "dc89eead00377bea0a720a9cb36980a7ed958d1ac02ce08273c49b771fd5bc12"
+    },
+    {
+      "src": "/audio/articles/crash-landing/013-058c9950c4dd.wav",
+      "duration": 4.128916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1574f707b5a1",
+      "audioSha256": "058c9950c4dd49241000096d3702a2d7ff2dea8d15ddee74ac3d9e1bb8cd2cd1"
+    },
+    {
+      "src": "/audio/articles/crash-landing/014-8ecb0aa1c8c3.wav",
+      "duration": 13.117041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7d3bfc6b93c9",
+      "audioSha256": "8ecb0aa1c8c39b6eb7d664b2ad17ce442648b52a791ad54b0aa3347c83f99d66"
+    },
+    {
+      "src": "/audio/articles/crash-landing/015-c03ba6a86251.wav",
+      "duration": 2.7922083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "febdcbf12cb5",
+      "audioSha256": "c03ba6a86251cdaf608e164b5f47c9da07b5a668462f3d03a4cb35b397d9a54f"
+    },
+    {
+      "src": "/audio/articles/crash-landing/016-916947ec4e66.wav",
+      "duration": 3.0970416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "85042b2601db",
+      "audioSha256": "916947ec4e66bb10ece3362a1aeb89996a44b60239f2a282211768e8125adb0e"
+    },
+    {
+      "src": "/audio/articles/crash-landing/017-275641e34bde.wav",
+      "duration": 2.0180833333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7e6b84a827bd",
+      "audioSha256": "275641e34bde351c001ea822b0e0fb9df163e8f96e1d3b6c79c9dbdf4fe4c86c"
+    },
+    {
+      "src": "/audio/articles/crash-landing/018-a31a07f36c26.wav",
+      "duration": 5.726208333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "ae099bd9a200",
+      "audioSha256": "a31a07f36c2647c3544570e6d2e9e6b7510d5aeaf6a9f21d847f1d8498556c16"
+    },
+    {
+      "src": "/audio/articles/crash-landing/019-bea64c12369f.wav",
+      "duration": 9.038208333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "94d9a59a9427",
+      "audioSha256": "bea64c12369fcbc61bbea6ffed8ba9f5e359779fbcd81787c4e088e80d9ef100"
+    },
+    {
+      "src": "/audio/articles/crash-landing/020-92cf1bb51bc5.wav",
+      "duration": 8.263291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2bbacd862a9b",
+      "audioSha256": "92cf1bb51bc52674a9bda6073b1300dab02f5570be0f45e4ce5f0b8317122124"
+    },
+    {
+      "src": "/audio/articles/crash-landing/021-2ad6297b11d2.wav",
+      "duration": 4.7683333333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ea33afbde3d6",
+      "audioSha256": "2ad6297b11d2bd3d40238a2c61b87dc2574cbf0e2437f398a9a1e6546194be5d"
+    },
+    {
+      "src": "/audio/articles/crash-landing/022-a201807ea181.wav",
+      "duration": 11.104541666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "0d84a3400d40",
+      "audioSha256": "a201807ea181129a52abd493a1b3e3377496b702362596558d9dee5920ff517b"
+    },
+    {
+      "src": "/audio/articles/crash-landing/023-da865596441a.wav",
+      "duration": 2.756,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7662b2c8b75a",
+      "audioSha256": "da865596441ac374c16cd2bfdc0c3564350072288d29e74c1a91ed635caa5a3a"
+    },
+    {
+      "src": "/audio/articles/crash-landing/024-47761eb5056e.wav",
+      "duration": 4.824791666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4a32e92125bb",
+      "audioSha256": "47761eb5056e8ca280b143f286fb6ec7611e2ff2666923f27aeb4ef923ad8ba9"
+    },
+    {
+      "src": "/audio/articles/crash-landing/025-25a318318e2e.wav",
+      "duration": 9.042041666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1b2f0e617ed0",
+      "audioSha256": "25a318318e2ec06938329315afdd46781e1b1714ea14d279dcb1e5895dfa5526"
+    },
+    {
+      "src": "/audio/articles/crash-landing/026-8b06ca8a62da.wav",
+      "duration": 5.0772916666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c5fade792d10",
+      "audioSha256": "8b06ca8a62da11a5050133f6cfa6c4a447b1b912a735f85f0ab6268937d1bfaf"
+    },
+    {
+      "src": "/audio/articles/crash-landing/027-b1d4bb5879af.wav",
+      "duration": 8.346208333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "27724e68c112",
+      "audioSha256": "b1d4bb5879afe9c6a5cca405d4cb2b03d420fc87950f7434c19f08dbac6a3374"
+    },
+    {
+      "src": "/audio/articles/crash-landing/028-fceeb3339f72.wav",
+      "duration": 2.36525,
+      "addedPauseSeconds": 0.4,
+      "textHash": "528e2755301d",
+      "audioSha256": "fceeb3339f72a3985090b9f674e0264f8e8c37a9bae4ff1d55a16acb2e29d1cd"
+    },
+    {
+      "src": "/audio/articles/crash-landing/029-40dc7ce5c4cb.wav",
+      "duration": 1.9872083333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d8e80c99a832",
+      "audioSha256": "40dc7ce5c4cbf0608a9d8a178e0d74382f8f225e4462e7b50425dabc3ef45a18"
+    },
+    {
+      "src": "/audio/articles/crash-landing/030-76c7bc3042da.wav",
+      "duration": 4.7275,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8d2461d6980f",
+      "audioSha256": "76c7bc3042da9e3f54ccd4de2ac84fa06eb46918c4ec6896cce7c65bbd9712ea"
+    },
+    {
+      "src": "/audio/articles/crash-landing/031-819b07af3ce6.wav",
+      "duration": 5.635458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0ba8a89cd559",
+      "audioSha256": "819b07af3ce6d6d3c967aa861418ac1f0befe1cdf7639c606531c3f879bf7707"
+    },
+    {
+      "src": "/audio/articles/crash-landing/032-e8e4ca35cb03.wav",
+      "duration": 2.5824583333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d0b2d1eef082",
+      "audioSha256": "e8e4ca35cb032574342e98bdba6992005258dbc4809778aa9da6bae04db02564"
+    },
+    {
+      "src": "/audio/articles/crash-landing/033-2c338cf0e191.wav",
+      "duration": 1.601625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bae6e46d02e4",
+      "audioSha256": "2c338cf0e191cc6a82e80616b052b6c7158fae5166a938a162540ddd6ad0f9f0"
+    },
+    {
+      "src": "/audio/articles/crash-landing/034-25eebb373352.wav",
+      "duration": 3.104875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "002c7ae8cf11",
+      "audioSha256": "25eebb373352fb17cfb4fc1155e22e4aeb8f7efdc6f90dcf5265d0bc89435664"
+    },
+    {
+      "src": "/audio/articles/crash-landing/035-d7b324347f77.wav",
+      "duration": 1.5514166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2d8d3429ba9f",
+      "audioSha256": "d7b324347f775d439dfdebd2b0b7bf5d78bd4711c139f04491d9fffaeb45450c"
+    },
+    {
+      "src": "/audio/articles/crash-landing/036-cea4baa496d7.wav",
+      "duration": 1.8910833333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "56e9baa239fc",
+      "audioSha256": "cea4baa496d7b2e85a457be4e81f354cb6cec85efd15ab9ec768cd84763476ee"
+    },
+    {
+      "src": "/audio/articles/crash-landing/037-a03031f5e717.wav",
+      "duration": 5.597458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "147f22d73b9b",
+      "audioSha256": "a03031f5e71790ed3354b02964ade8d5a91077d152b8f77640965e1fd34ebb09"
+    },
+    {
+      "src": "/audio/articles/crash-landing/038-6a26c23695c0.wav",
+      "duration": 5.8115,
+      "addedPauseSeconds": 0.4,
+      "textHash": "708f1bc687b9",
+      "audioSha256": "6a26c23695c0cfd290c49b8844bf67a07ef8baa877e4c46b6ce7a0442d40061e"
+    },
+    {
+      "src": "/audio/articles/crash-landing/039-d11ca5b29970.wav",
+      "duration": 4.172958333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7ebb3077a170",
+      "audioSha256": "d11ca5b29970f99d550d00f475b59321f7c1bbc4c178eb6af39a5bab84699308"
+    },
+    {
+      "src": "/audio/articles/crash-landing/040-3a2a6d75a779.wav",
+      "duration": 2.048125,
+      "addedPauseSeconds": 0,
+      "textHash": "f6e851fa1e4f",
+      "audioSha256": "3a2a6d75a779b41690a105672396d541881f626fc9c04ce67a8586a470491a1d"
     }
   ]
 }

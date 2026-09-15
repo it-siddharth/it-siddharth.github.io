@@ -1,50 +1,266 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.913Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:43:52.965754+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/dissecting-design/001.wav",
-      "duration": 27.5,
-      "textHash": "78970d71e210"
+      "src": "/audio/articles/dissecting-design/001-3d997aa46ff8.wav",
+      "duration": 8.172875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "eb98456b2f52",
+      "audioSha256": "3d997aa46ff825b264f68dc4121b05609669ff75bb7e1ff3ec8149c0076c1dfe"
     },
     {
-      "src": "/audio/articles/dissecting-design/002.wav",
-      "duration": 25.425,
-      "textHash": "ee747a37256f"
+      "src": "/audio/articles/dissecting-design/002-6ecfd15300ac.wav",
+      "duration": 9.513041666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bd4ed60bc572",
+      "audioSha256": "6ecfd15300ac7c46970e626edbc5dc993faf0a47cea238a7ae1c1892afa5ac1a"
     },
     {
-      "src": "/audio/articles/dissecting-design/003.wav",
-      "duration": 14.025,
-      "textHash": "8ce17b448f46"
+      "src": "/audio/articles/dissecting-design/003-38da019e84e1.wav",
+      "duration": 4.604291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7b0d688bc2cf",
+      "audioSha256": "38da019e84e19db543fd7f66e01b4267af78518edfe9e9e0da5f8df3a5a5db43"
     },
     {
-      "src": "/audio/articles/dissecting-design/004.wav",
-      "duration": 21.025,
-      "textHash": "88b455b88772"
+      "src": "/audio/articles/dissecting-design/004-0dab764d404c.wav",
+      "duration": 8.348625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9e563310b8b4",
+      "audioSha256": "0dab764d404c6c43cd40c16ead8b55beda14a014b3de7c6d98275e27b55cd971"
     },
     {
-      "src": "/audio/articles/dissecting-design/005.wav",
-      "duration": 27.4,
-      "textHash": "e75b66856c35"
+      "src": "/audio/articles/dissecting-design/005-75a00fcdea82.wav",
+      "duration": 1.7229583333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "b1a489144e32",
+      "audioSha256": "75a00fcdea8203cd1ca0072c222e28712287b0f4950cf73510ba1e2f2f3586e1"
     },
     {
-      "src": "/audio/articles/dissecting-design/006.wav",
-      "duration": 34.175,
-      "textHash": "c9e8384ce474"
+      "src": "/audio/articles/dissecting-design/006-335164e0c990.wav",
+      "duration": 2.1044583333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "19224706c0cd",
+      "audioSha256": "335164e0c9905a9fed09762070f684d526ee1e2090fad8d0a1b2698d864ce7ea"
     },
     {
-      "src": "/audio/articles/dissecting-design/007.wav",
-      "duration": 24.275,
-      "textHash": "26eaeaf87317"
+      "src": "/audio/articles/dissecting-design/007-58dddbde740d.wav",
+      "duration": 11.787541666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2b8cc83e8d8e",
+      "audioSha256": "58dddbde740db601ac24936c2564d953e3d9bf8c6daa71b0be624ff339108509"
     },
     {
-      "src": "/audio/articles/dissecting-design/008.wav",
-      "duration": 9.45,
-      "textHash": "3c02ca0eb6d7"
+      "src": "/audio/articles/dissecting-design/008-488a642d587f.wav",
+      "duration": 5.595208333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b8f48196ddd5",
+      "audioSha256": "488a642d587f2d351fce20ccccbbb22ae082ffa39f237b9b6b666c7447d6e4ce"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/009-a05fbb91eedb.wav",
+      "duration": 7.791083333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "0f9395bfdd25",
+      "audioSha256": "a05fbb91eedb31c19d731049e7287d27f106397a63a11378ce3e7ea87e604bf0"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/010-3a566593c153.wav",
+      "duration": 7.192458333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "fb5b65fe2392",
+      "audioSha256": "3a566593c1536bdd98dc1f50401b2cd85f199a7c57f114d110bd263d5c646a9b"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/011-a104dd541bbe.wav",
+      "duration": 5.7635,
+      "addedPauseSeconds": 0.4,
+      "textHash": "08edd3a2af9a",
+      "audioSha256": "a104dd541bbe3b101c278d74cfb728225668e2873dcb4b5aab1b35e12e54aef1"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/012-3a536172eb07.wav",
+      "duration": 3.062,
+      "addedPauseSeconds": 0.7,
+      "textHash": "d0a28c428e02",
+      "audioSha256": "3a536172eb07dc096a43df39b29c8fbaba7abaca11af9cd8c091dfeab3b48334"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/013-9530fc063358.wav",
+      "duration": 4.212541666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8a812baf0502",
+      "audioSha256": "9530fc0633584c77862a4d442815a90fa785b965b6a79823fc83a8f518889c03"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/014-14eb37c074b9.wav",
+      "duration": 7.1401666666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6156d595f4fb",
+      "audioSha256": "14eb37c074b9a912a0883c0dc2c251fe0caa36404071a7b3c5a8218a9f8d5c0a"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/015-94a265bf1e63.wav",
+      "duration": 4.65575,
+      "addedPauseSeconds": 0.4,
+      "textHash": "40b506a2aa16",
+      "audioSha256": "94a265bf1e6327b1709534b0e6e45d4a739de5e9d941ebd73ca032ead5e96543"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/016-5c81eb27ada4.wav",
+      "duration": 8.262916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ca4cbe794ad2",
+      "audioSha256": "5c81eb27ada4c0d2ca16526d91db5695682936f55642e31022efc2cdc73fdddd"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/017-098a53752410.wav",
+      "duration": 9.8065,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f0c7d72eba0e",
+      "audioSha256": "098a53752410ac766282166e95914809d5dc8aec10b9f731345a10e3dac81542"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/018-4deb0900a4ce.wav",
+      "duration": 4.856208333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6c66d66c63c7",
+      "audioSha256": "4deb0900a4ce83bde0c2090a28c75eba5bdcea81a8f9321e463acb4786177c74"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/019-a474a915dc34.wav",
+      "duration": 8.781541666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ffa16bc58669",
+      "audioSha256": "a474a915dc3453365e966842c914e92307f307ef1525e622252f602d7a242989"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/020-b7548bc3d444.wav",
+      "duration": 4.784208333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4434fc9d8f17",
+      "audioSha256": "b7548bc3d4442c3001ff97b3fdd739367c845553d49aa4a5f3526d0f121bd420"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/021-42c470aef468.wav",
+      "duration": 7.32175,
+      "addedPauseSeconds": 0.4,
+      "textHash": "790dd2dee93f",
+      "audioSha256": "42c470aef46825b146bf6ac682a7679453c7b7537228e4142a22f217ba781adf"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/022-9068d7e67b3a.wav",
+      "duration": 7.694,
+      "addedPauseSeconds": 0.7,
+      "textHash": "47216accc550",
+      "audioSha256": "9068d7e67b3a5feb91e725682b2be7f63f9b33a8a04128f5dbd47b8311efd03e"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/023-b55c4a9ec3de.wav",
+      "duration": 4.3857083333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9ea60de8159f",
+      "audioSha256": "b55c4a9ec3deaec5cc730ce88ad70c8fa372c96572dd74b3701c2850c84dd678"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/024-2cadaf8166ae.wav",
+      "duration": 4.912166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "118d3307c509",
+      "audioSha256": "2cadaf8166aebfdf879d6a1f289e373f2b22864d49af3a1c8235d15464b67933"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/025-c8972c4e6bc0.wav",
+      "duration": 8.823291666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "85d6d58bd84e",
+      "audioSha256": "c8972c4e6bc0de6928c01429dac91451c18395a2a3e9962883fa6fdf2968dd38"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/026-294e271b195a.wav",
+      "duration": 8.007375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bee6fd8df673",
+      "audioSha256": "294e271b195ad2e69feff1593e53a999c7f6d71778d333a8d2a21d2ee2acbc97"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/027-b6489a237225.wav",
+      "duration": 8.042166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "aad2c2afc897",
+      "audioSha256": "b6489a237225537af2a590fbfc15be7ed1f6d1898a8ffcd90d897aedddb80303"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/028-7997e675a786.wav",
+      "duration": 7.523166666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "20a3daf56af8",
+      "audioSha256": "7997e675a7865e3ae726b88436bd028d25c1e3bdc7224e5a0b0fbb0f69860dab"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/029-e56c5239692d.wav",
+      "duration": 6.580375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d50f1f676cfb",
+      "audioSha256": "e56c5239692dbebcc84e9edf959238e0e3cc58d6f086a555cd597ef1c8f7500b"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/030-25879ca598d6.wav",
+      "duration": 3.4397083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "558550aaa835",
+      "audioSha256": "25879ca598d63578aab78434012637c0b955c4fbe3a1f55bf52af6c592ab8e14"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/031-767af9cd8c3d.wav",
+      "duration": 6.592083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e7681d535b2c",
+      "audioSha256": "767af9cd8c3d88e8956fed661ee760ac1c8382750bb5b6ac211246a5cb1238d7"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/032-504037e14980.wav",
+      "duration": 6.578625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "77fff73e7500",
+      "audioSha256": "504037e149804dd1869392bc64a05fdd59075bfdc747b7fda686bf163f3a15d3"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/033-3bfaa4db499c.wav",
+      "duration": 5.121166666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f8033c621fcb",
+      "audioSha256": "3bfaa4db499c455334888d32c218e5dcf287a9a0532e5049278d7ef6307ef5ee"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/034-c339e8b49219.wav",
+      "duration": 3.66125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "343cf1aa70a9",
+      "audioSha256": "c339e8b49219b46515bd13033e40d948f14e31b9512efad326c7b6980e730097"
+    },
+    {
+      "src": "/audio/articles/dissecting-design/035-34bb63be7d85.wav",
+      "duration": 5.800458333333333,
+      "addedPauseSeconds": 0,
+      "textHash": "6c0a3b38d782",
+      "audioSha256": "34bb63be7d855db5338399b982eb22dd9fb54e05cafca46f72cb2d5437ee3ec0"
     }
   ]
 }

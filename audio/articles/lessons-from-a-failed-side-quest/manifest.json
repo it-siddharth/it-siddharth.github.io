@@ -1,60 +1,560 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.910Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:02:33.383781+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/001.wav",
-      "duration": 43.625,
-      "textHash": "a8d7dc3dcd41"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/001-00ed5760cb18.wav",
+      "duration": 5.506541666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8df229b1a027",
+      "audioSha256": "00ed5760cb184ae9337b2ec25926f2c701b805407c74e25f0b1da42738a53858"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/002.wav",
-      "duration": 19.8,
-      "textHash": "5539c1bd2cd6"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/002-9b2974fc70ee.wav",
+      "duration": 4.047291666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a1c7dafe7b50",
+      "audioSha256": "9b2974fc70ee1790a569fd541636daf58eb13c4ca5d99bd07b4260e587e79f7b"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/003.wav",
-      "duration": 30.1,
-      "textHash": "45cf3bb520fb"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/003-2cf6b56e01b5.wav",
+      "duration": 10.666125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "41bbb2ecb425",
+      "audioSha256": "2cf6b56e01b57c3eebb5be27b8424e9851b0075fec0cd712b58d1dea6130521e"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/004.wav",
-      "duration": 38.15,
-      "textHash": "eb55322d7565"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/004-598233431039.wav",
+      "duration": 6.501333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e55f581ba962",
+      "audioSha256": "5982334310390206e6711dc6997f8e3b065e5689a78a75f6c4764058015fcbf3"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/005.wav",
-      "duration": 41.475,
-      "textHash": "847c1fa2da49"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/005-3fc80ebf434a.wav",
+      "duration": 7.141416666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c60f3b4c36ad",
+      "audioSha256": "3fc80ebf434ab1f1614f07b3e96d962ac90bdedf759442e4f9597fe1e9d2ef41"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/006.wav",
-      "duration": 50.875,
-      "textHash": "79ff2618984f"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/006-56b93b996690.wav",
+      "duration": 5.071916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "44a9c4f87694",
+      "audioSha256": "56b93b996690d0f6a32ed5c9a842a57445444d625b8c16d83a5ca3f035f17a59"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/007.wav",
-      "duration": 41.55,
-      "textHash": "9ec4aad81651"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/007-e996f2a45599.wav",
+      "duration": 4.782375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "865466952899",
+      "audioSha256": "e996f2a455990f5291348af0a3d86445bd7ead7a11a53d3f1a189a513efc60ef"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/008.wav",
-      "duration": 26.95,
-      "textHash": "a050bfc6002f"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/008-ce6c5de043dd.wav",
+      "duration": 5.937291666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "79a512f1d5ee",
+      "audioSha256": "ce6c5de043ddd6bb07cfa94e6ec6398fe8fcc6eac0393c0b51603aa1a085e6dc"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/009.wav",
-      "duration": 29.725,
-      "textHash": "4fa22545ec10"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/009-bd34295473a1.wav",
+      "duration": 2.966125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "07df39435079",
+      "audioSha256": "bd34295473a1e8d956975c651805f3826e6f3e0de927fc2d51b5cdbe6c667975"
     },
     {
-      "src": "/audio/articles/lessons-from-a-failed-side-quest/010.wav",
-      "duration": 13,
-      "textHash": "c8d552f86f0f"
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/010-714017e8bb40.wav",
+      "duration": 4.642625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "03e6d6bfec3f",
+      "audioSha256": "714017e8bb40698e5fe2f8b0716b0ca9aab8de4e582e4f25f269939a2a77d53f"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/011-95f30223dcfa.wav",
+      "duration": 3.6553333333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "22802e8f8096",
+      "audioSha256": "95f30223dcfad4af907a4212a0bbb2a168c0a7c29738970deffe5b07c525c0b9"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/012-422ce3e0f767.wav",
+      "duration": 2.5820833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d7131c0bb329",
+      "audioSha256": "422ce3e0f767dee4c16ea9f6d5fb4e252eb8fd3aa6d3fe50146a38792fbcbf6e"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/013-e45016cab1bf.wav",
+      "duration": 1.3347083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6a870c8bab72",
+      "audioSha256": "e45016cab1bfbd894aa7862607a0fb815918d58a7f751be1f8bd621a22224876"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/014-b8578c7c5477.wav",
+      "duration": 6.923625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "71534111e3eb",
+      "audioSha256": "b8578c7c5477bceb055aa26dcef72bb90aa33c9866bc0bc947014a4a0604af4c"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/015-baad36686bef.wav",
+      "duration": 5.20975,
+      "addedPauseSeconds": 0.7,
+      "textHash": "af0f934c33f2",
+      "audioSha256": "baad36686befcb3ea882975033c1f9343913add9e716415ad3c10bd4bf1b7b4c"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/016-b8d1e0f816f4.wav",
+      "duration": 8.909958333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f182a01b4cce",
+      "audioSha256": "b8d1e0f816f474fb143a503574cef9516efcbe87b3f1dce93e16a1bc4f1f1b3b"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/017-2c0344de3c21.wav",
+      "duration": 3.1914583333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7dd52ee16230",
+      "audioSha256": "2c0344de3c214e44b9189a621d0a3449cdc5474c37aac8164991a59556ddb816"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/018-165e0a152655.wav",
+      "duration": 4.080916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "52c81ce22a8d",
+      "audioSha256": "165e0a15265541c7e7a7b54db16610badee9ea67968678ecada50d62393548cc"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/019-27fad09cd86e.wav",
+      "duration": 6.582291666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "46608fa81a96",
+      "audioSha256": "27fad09cd86e50be398c3e9e67379a037daa631122187d6e6608168d8c931228"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/020-0863706ee4f4.wav",
+      "duration": 2.7517916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "21a7b4bcbbb1",
+      "audioSha256": "0863706ee4f4cc1f1914f5ee3153f1215d5d6e65d293f5b44a80d3ab5fe74b65"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/021-63ac0ec6cf72.wav",
+      "duration": 5.557541666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "eb31b465dc0a",
+      "audioSha256": "63ac0ec6cf722e0d23f17df85a7c2d48bec159088b640beccbe8de04406ff34e"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/022-264ce567517c.wav",
+      "duration": 3.5689583333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5b956a0e292f",
+      "audioSha256": "264ce567517c5897417b76a99eddecde6ae333aff5e95134a9234f9bdaafa24a"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/023-7c0ad618fac5.wav",
+      "duration": 4.732541666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "975bfa380db2",
+      "audioSha256": "7c0ad618fac519bc90f50c422d52f618de1f8d30efcffd58e53fbeee3708e450"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/024-f5a7c609fdeb.wav",
+      "duration": 6.199375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "23379b9ebaa5",
+      "audioSha256": "f5a7c609fdeb0de2e32cfb5f78ff0cefdb8138951a5f2611f414b8735265ac58"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/025-f513e17694ae.wav",
+      "duration": 2.7550833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "88b327f9ce8a",
+      "audioSha256": "f513e17694aef4202bc1816312c678ecc7443b6d6d4eb4e13a08d1b4ac23ebc0"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/026-caa260310006.wav",
+      "duration": 5.6325,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ab20919a403d",
+      "audioSha256": "caa260310006468530df75d5127aa4a1d78858f47c6d69c9a2c76efca2acecbf"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/027-c778ed7bcf59.wav",
+      "duration": 2.715375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "70a396f446bd",
+      "audioSha256": "c778ed7bcf59d93f6cf6b435d8cef232f95ac30e422420e04ae777567662d2c1"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/028-61db0ec2bae2.wav",
+      "duration": 4.943041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3ee8c2977679",
+      "audioSha256": "61db0ec2bae29ac27282e7124eb0a7f4b32edc25937d758f49c8f0151c68e317"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/029-09365d00933c.wav",
+      "duration": 6.504958333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5ba12a55d223",
+      "audioSha256": "09365d00933c03098924b6786637c1803655667b0f50478d88986d24f187e165"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/030-e76f5454669c.wav",
+      "duration": 10.414416666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9f70f38cb865",
+      "audioSha256": "e76f5454669c0f63bfc20f68c9a458984d7e44661e03971a749d1931d201973d"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/031-08d9f82dbe10.wav",
+      "duration": 2.1132916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f4737249c82e",
+      "audioSha256": "08d9f82dbe101ffd017c111d5dc311b0d00fa6e6b110a57bcac6081498395c92"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/032-84bdb0cec883.wav",
+      "duration": 2.6610416666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "ca28d9aea4dd",
+      "audioSha256": "84bdb0cec883ae899168d2f1150d3b0060a674ec6031c4566daa1539578bcb61"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/033-062215c05c61.wav",
+      "duration": 4.514541666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "02aa316feb35",
+      "audioSha256": "062215c05c6179e03fdb882e0dee49015a291c04911bfd4926f3d088aaece93f"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/034-a30e95181a35.wav",
+      "duration": 4.089041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "18702c050a41",
+      "audioSha256": "a30e95181a357b4a11daac4bf3ab25bddd3b0fcd07da9d4e62ee64a52804df37"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/035-09998656372c.wav",
+      "duration": 1.847375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "16a3378ff974",
+      "audioSha256": "09998656372cb969137042278e2c65e261aa6520dcc98fc543481eb30bc893e3"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/036-372c868d1e54.wav",
+      "duration": 7.751916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "db805c80b36a",
+      "audioSha256": "372c868d1e5461765c6cab64fe6c24bcc8073d19d82b4ccd794309421742ad98"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/037-c8056f3bbfd9.wav",
+      "duration": 4.568833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "205e050251cd",
+      "audioSha256": "c8056f3bbfd93dabfa56a0561aa0b1a9c09be49d443061d8790e7f3c20414baf"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/038-0db0afee3fb4.wav",
+      "duration": 5.4575,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4850f0a422c9",
+      "audioSha256": "0db0afee3fb4409fce4df162e42d0950caf4d843227e5ac90b6876bc130db272"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/039-d2a491bc3135.wav",
+      "duration": 4.48325,
+      "addedPauseSeconds": 0.4,
+      "textHash": "06e8917f7e95",
+      "audioSha256": "d2a491bc313590ea32a3ef5314203e8deecbc5f133e2c127aca8cd8e1fa549a1"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/040-90096d8067c2.wav",
+      "duration": 6.80275,
+      "addedPauseSeconds": 0.4,
+      "textHash": "443e18490f2b",
+      "audioSha256": "90096d8067c2d06e71aa0eb9ea6d987d8e5204e0e7b54aa71c1023f89f4f8d88"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/041-353a4cec623e.wav",
+      "duration": 6.835,
+      "addedPauseSeconds": 0.4,
+      "textHash": "899f71ecee97",
+      "audioSha256": "353a4cec623ede7da7330c9418379688d6d215b69e6bf8f0814277fd91de3fb6"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/042-b668346a1864.wav",
+      "duration": 4.481875,
+      "addedPauseSeconds": 0.7,
+      "textHash": "09bb0cfdce26",
+      "audioSha256": "b668346a18642d7c9bc0c8bdb559fa04c7f0ffa4545e3d82ab34b255b0da7c45"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/043-199cf565d00c.wav",
+      "duration": 4.905583333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ad79cb9f871c",
+      "audioSha256": "199cf565d00cf47822fca1a1707daad4b2e4ce613875683f5a36525fbf7e2c29"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/044-28dc8973f98d.wav",
+      "duration": 12.005666666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1ff1b60fbef6",
+      "audioSha256": "28dc8973f98dabe829b5597031b665ad1d23f2912e2d1fff55d9a6f1acd668e5"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/045-5c0177a4d929.wav",
+      "duration": 4.139083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "caab260d59dd",
+      "audioSha256": "5c0177a4d929db321ec3170c20305cf33c918f8a46fccb5334b62a0ec17f98f6"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/046-3025f12b72bd.wav",
+      "duration": 5.033666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3653103296db",
+      "audioSha256": "3025f12b72bd1df0b5b4c17e35973f52a4a9a83758faf4544a17af6220dca457"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/047-79f7070aef4e.wav",
+      "duration": 4.898166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a0637b285dc1",
+      "audioSha256": "79f7070aef4eef3b6245968e6b112d23023dcd04138f00a7e3bcd1027624732c"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/048-cac73a42830a.wav",
+      "duration": 6.4515,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0d85e3b93834",
+      "audioSha256": "cac73a42830a39f2144ec36ca9bcfc7440b9f89e02a94e892b98d5c0dfe44355"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/049-e66cdbf0ea5d.wav",
+      "duration": 1.3733333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c3298ae2bfca",
+      "audioSha256": "e66cdbf0ea5dc184123e2c7aa7e4bc0f3f38ac508d5a7d01601e2c7b1a2228be"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/050-78d38813ed65.wav",
+      "duration": 2.2801666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "17b77e9dbd41",
+      "audioSha256": "78d38813ed65f6a70e8b0ed99d18232717df14d719d9b3815fbc9d0fd4caf308"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/051-a317356c348d.wav",
+      "duration": 1.3013333333333332,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b59c96caabcf",
+      "audioSha256": "a317356c348d995d1dff36327c63d5383409341890a2d121c2b9d42dad88766f"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/052-47db9f98c8de.wav",
+      "duration": 2.202625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bfa12aff758f",
+      "audioSha256": "47db9f98c8ded8343936e0579c6e5f1c4b4db63d0dd13c39173ddc7df9d0a781"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/053-1a71df49fa44.wav",
+      "duration": 3.1008333333333336,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f565dffdb95c",
+      "audioSha256": "1a71df49fa444d9f5435b808c85bb050cc05f6ffbb480f1797a01a86b0b9a7a0"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/054-3b62af39d782.wav",
+      "duration": 7.654416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5531dbd4e987",
+      "audioSha256": "3b62af39d782e68a0464899b4d201fd982eec6919aedca8cb5a9c009342eaea3"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/055-273782e52a71.wav",
+      "duration": 3.875166666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "eb794d77dbb7",
+      "audioSha256": "273782e52a71f21f79520c81e3786bf50c32bf00205b37c4128554829bf5da98"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/056-7e6ad7938962.wav",
+      "duration": 4.2255,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bd184eb728ff",
+      "audioSha256": "7e6ad7938962da118594cfa24f7dcb6f7993693854db1ce091232cf62871e5d1"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/057-5ec991b6b818.wav",
+      "duration": 3.831166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "df357c3a7a03",
+      "audioSha256": "5ec991b6b818405eae82f3c7eee57d847814bdb0a4335648dffa170a4d8497af"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/058-972e32a61ede.wav",
+      "duration": 3.1413333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e2b59a563623",
+      "audioSha256": "972e32a61ede1d573d33a556340bc8f338cda20387020b82b97e5d96ed8c7cff"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/059-686b7c5231cd.wav",
+      "duration": 7.105291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a9e87b5edfe4",
+      "audioSha256": "686b7c5231cdc21a93294d39649abd4235d5648d369d36a983e56ea247400da1"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/060-a9dd5211f177.wav",
+      "duration": 4.47475,
+      "addedPauseSeconds": 0.4,
+      "textHash": "062f5cb5ffae",
+      "audioSha256": "a9dd5211f17737f84396d0f17c5d36d15682baa9c84fe2abd7fe32ab8bb463d1"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/061-4e55d813ef52.wav",
+      "duration": 6.231916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "941d55aff129",
+      "audioSha256": "4e55d813ef5209e0c5fa4204d08c041d66b41711472e282911c80b444b782cba"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/062-0390e5aa309d.wav",
+      "duration": 6.848583333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a792b2999f6e",
+      "audioSha256": "0390e5aa309dbe3ffa6fc40f786218a8d018b710293926c8dde5f7e7c310ad2e"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/063-09edd60d665c.wav",
+      "duration": 8.863375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "abe90e6aecfb",
+      "audioSha256": "09edd60d665c100d9fe3c18a990d4732276f5213f0e5e3e348bb9cc37874d5ff"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/064-7bf1d5e3abcc.wav",
+      "duration": 3.7049583333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "a13be40cc73a",
+      "audioSha256": "7bf1d5e3abcc176d70a453de3e374d20c654ae427cba4538f640fe4fd363aff6"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/065-09e97bd716b3.wav",
+      "duration": 9.679083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d2c0f6e193ed",
+      "audioSha256": "09e97bd716b3e1f2b84c46b19dade0001159fd6d2018e2170fc2ba2883a4aa49"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/066-d1fa13a44be3.wav",
+      "duration": 9.682458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2ac200fc4d85",
+      "audioSha256": "d1fa13a44be38139c7679edf296bcdb380cf0c928ec5de54421d6eb36426ddd6"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/067-799b4edbf9e1.wav",
+      "duration": 5.857583333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8ed65c8f07ce",
+      "audioSha256": "799b4edbf9e1aaf11a335a42be293ed876448c1880e8310da8fbc82ecf5d59b1"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/068-80d335ceef51.wav",
+      "duration": 5.941041666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "8b3b5af8eb60",
+      "audioSha256": "80d335ceef512fcf413c650dcac9e8e809c3151aa30ed5b8c333f1c426ce07c6"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/069-0f2c7b2575d4.wav",
+      "duration": 6.369458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "02a4fba4c4ae",
+      "audioSha256": "0f2c7b2575d459484e58737379fa06540cea07c94b6da5f3c7a3d15e9073b738"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/070-53ef16fa3056.wav",
+      "duration": 5.634458333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "672e06c86ffa",
+      "audioSha256": "53ef16fa305648c9415405bc071c71247e262a880be585cc06e4c040bda67d86"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/071-aea96b4b37b5.wav",
+      "duration": 3.825833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0503b252e2a8",
+      "audioSha256": "aea96b4b37b51b6d8aa5343185812fa02a7059e1b4d539151a7fc10160831cc3"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/072-f88eabbb991c.wav",
+      "duration": 4.82575,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e67e845cf6d6",
+      "audioSha256": "f88eabbb991ccb2d449185cc0e67364e5fd1f9c8a3c8b0c1cc7a98c01b4e478c"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/073-92a1092749a6.wav",
+      "duration": 5.555583333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cea6cb161aed",
+      "audioSha256": "92a1092749a6655a8529db3e0ee3546b3a6fcf0a89131c0b2caef422c1281e51"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/074-f88457e8c176.wav",
+      "duration": 7.142833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f2c497dd6ed6",
+      "audioSha256": "f88457e8c1766b2a19ceb8bcc5fe635d9ab25f38356df1bd88ded85797ef4af1"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/075-dc7c9713d331.wav",
+      "duration": 3.4342916666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "282b8d7990f8",
+      "audioSha256": "dc7c9713d33152628096c8bfb0fe7856a36700d8ebea7ef9f7f21d43e335870f"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/076-534a18241c1d.wav",
+      "duration": 7.954125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ee34cc33bb33",
+      "audioSha256": "534a18241c1d1aafa11546fefa495a1ec9c790be7143dc7a2d91fccbfc191d1d"
+    },
+    {
+      "src": "/audio/articles/lessons-from-a-failed-side-quest/077-4fd1924109ff.wav",
+      "duration": 4.552958333333334,
+      "addedPauseSeconds": 0,
+      "textHash": "689afa603790",
+      "audioSha256": "4fd1924109ff7f8db3783c421d74a112ba6581eb6272602d267930e796c8c96c"
     }
   ]
 }

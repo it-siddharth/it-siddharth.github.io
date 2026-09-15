@@ -1,45 +1,343 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.912Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:34:25.680700+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/check-in-7800-miles-away/001.wav",
-      "duration": 17.875,
-      "textHash": "6038cf5c6c00"
+      "src": "/audio/articles/check-in-7800-miles-away/001-0f4d6227b66c.wav",
+      "duration": 7.869666666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c2721fc60ba5",
+      "audioSha256": "0f4d6227b66c89b553b998a5634247d15b0e40caabe46391da91a2e9ebee7ccb"
     },
     {
-      "src": "/audio/articles/check-in-7800-miles-away/002.wav",
-      "duration": 42.15,
-      "textHash": "4cb7df98b9b8"
+      "src": "/audio/articles/check-in-7800-miles-away/002-ab66c60cf083.wav",
+      "duration": 4.643125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a8a3bb81b810",
+      "audioSha256": "ab66c60cf08389c1a4e8fc6eefe6fec37b5050388da363e1c028eef6a50e29b6"
     },
     {
-      "src": "/audio/articles/check-in-7800-miles-away/003.wav",
-      "duration": 21.45,
-      "textHash": "5790acee1f09"
+      "src": "/audio/articles/check-in-7800-miles-away/003-bc5e19f61759.wav",
+      "duration": 6.875875,
+      "addedPauseSeconds": 0.7,
+      "textHash": "34707e9d5dbf",
+      "audioSha256": "bc5e19f61759e1637b7cb841774eb71956c7812b3ee51a0a8eed97e2c5556b74"
     },
     {
-      "src": "/audio/articles/check-in-7800-miles-away/004.wav",
-      "duration": 47.2,
-      "textHash": "fe439d7f6ee2"
+      "src": "/audio/articles/check-in-7800-miles-away/004-85847639ca57.wav",
+      "duration": 4.4405833333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "41c12fb73cc7",
+      "audioSha256": "85847639ca57343f3f28326eb395eff81e7234318cfbee83ecae69df00e62912"
     },
     {
-      "src": "/audio/articles/check-in-7800-miles-away/005.wav",
-      "duration": 19.175,
-      "textHash": "4bb28ce0685e"
+      "src": "/audio/articles/check-in-7800-miles-away/005-a2da440f08b4.wav",
+      "duration": 6.63375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a290abfd6bfb",
+      "audioSha256": "a2da440f08b4c151a866989d63375cc388c0823428b0f37770d709f6e4d8edec"
     },
     {
-      "src": "/audio/articles/check-in-7800-miles-away/006.wav",
-      "duration": 17.975,
-      "textHash": "a944dc139931"
+      "src": "/audio/articles/check-in-7800-miles-away/006-7e245a5ed205.wav",
+      "duration": 4.686916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0f340ff344de",
+      "audioSha256": "7e245a5ed20547859b89a1ecf5394164d6b1dff82595597cd008fcab3da1dc55"
     },
     {
-      "src": "/audio/articles/check-in-7800-miles-away/007.wav",
-      "duration": 47.625,
-      "textHash": "2b060fc325fe"
+      "src": "/audio/articles/check-in-7800-miles-away/007-7a917e2998b4.wav",
+      "duration": 3.866833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "fa497bbe6f80",
+      "audioSha256": "7a917e2998b489e0e7233cb73a73303d168d3e5a361fe73870d2a9dd57343f17"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/008-2f586c5d16ed.wav",
+      "duration": 4.049875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e4e6fd3fde4a",
+      "audioSha256": "2f586c5d16edc5439632f8dc9dc07439ffe2c357b39ff90fb33344b07c0d3bc4"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/009-30b014ae9c73.wav",
+      "duration": 6.666333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "739e6dc718ba",
+      "audioSha256": "30b014ae9c7327ed5f301e92c61e2f82f5e4a7030b344741f6814148753120ec"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/010-75820d72eea3.wav",
+      "duration": 4.046208333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "fae732c7d072",
+      "audioSha256": "75820d72eea38fb3c7d954f7b0660321db8b16aedc1d1737d5c515b4c03939b5"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/011-ea3c8dc724ac.wav",
+      "duration": 5.684125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d146e7770767",
+      "audioSha256": "ea3c8dc724aceb35ed1561a20a03028968fd0defef6dc13d247a4230c6421c35"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/012-72ad733b3387.wav",
+      "duration": 3.4065833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "05fc69b8901a",
+      "audioSha256": "72ad733b3387719416f0391a9bbe46f76e6fa297d2e17e144052ac9bc960558e"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/013-dcd1a8ff8510.wav",
+      "duration": 3.9966666666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "de03ed1cc4af",
+      "audioSha256": "dcd1a8ff8510a9ff0876bcb317fcae6cfd6bf35af4da0887746719ae366f103a"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/014-89945b948b6b.wav",
+      "duration": 6.411291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5213f6ee2a5c",
+      "audioSha256": "89945b948b6bad0afc4e3d09498d575a39994c01fed8f41119e7d8e080ec0bee"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/015-b657241dd3ee.wav",
+      "duration": 5.123958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "09cf2575ab81",
+      "audioSha256": "b657241dd3ee7057cb1cc535cf26cd109c7302179efa1c343ff75310e9a88d1e"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/016-088fc6cdcfc9.wav",
+      "duration": 3.747375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e5554192f3bd",
+      "audioSha256": "088fc6cdcfc952c65590c837254cf587d694e4f0c130718854abb3a0a6f7422b"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/017-9f0f9bc2d941.wav",
+      "duration": 8.180666666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "37e203dc96fa",
+      "audioSha256": "9f0f9bc2d941b5b7696ecaf6b4ccbbfd372d6aa5b00607e4974b7487e98660cb"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/018-02b60dd83916.wav",
+      "duration": 6.799666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "03b494fb38b9",
+      "audioSha256": "02b60dd839163e71528176348ce758553e6ddcbe187f6ab9ef92de119006265e"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/019-3716e877cc62.wav",
+      "duration": 10.504375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "281b078dd77e",
+      "audioSha256": "3716e877cc628f99d149b7b06cbc78c76358ddc82248e0a041140f0b9ac157bc"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/020-88cd1da13899.wav",
+      "duration": 5.2047083333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "29245a94a671",
+      "audioSha256": "88cd1da138994a1de1651e0bdc59b0ccf8b7a23024426a8e64086e0bd96e39a1"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/021-16803e9f04e6.wav",
+      "duration": 2.6682916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d6e3ba903930",
+      "audioSha256": "16803e9f04e6a17e829834cd9fc3e73d02aeacc03db7c2db9cd925412f1f7086"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/022-e1895aea1033.wav",
+      "duration": 8.994083333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1fa309a73c27",
+      "audioSha256": "e1895aea10331f24956d91c2dce68e134f74c83d3765224e6fed3f7050e32dc1"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/023-cfb68040de20.wav",
+      "duration": 10.754458333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c38635c269f0",
+      "audioSha256": "cfb68040de202e2d686173dc7d6156b24810c2204cf65e67290ccff184f15766"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/024-ec3af3c9534f.wav",
+      "duration": 6.238333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ff35d4af8f94",
+      "audioSha256": "ec3af3c9534f1974aeebfa70d7b70a60f02a8cf34bc1b7f04d31603e63f21601"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/025-ba1b2ab1d059.wav",
+      "duration": 7.319125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "754020a31ed6",
+      "audioSha256": "ba1b2ab1d05911ec89657ff4b0424684d575713d8a60aee7574594798e7824bd"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/026-5534adb5aca7.wav",
+      "duration": 6.590875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c27e8212f830",
+      "audioSha256": "5534adb5aca75f555542ebf7a1edc8def5392e504b14451f1cca91d0b4dc1965"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/027-b84826067aa9.wav",
+      "duration": 7.995875,
+      "addedPauseSeconds": 0.7,
+      "textHash": "8f4a3d5c31d0",
+      "audioSha256": "b84826067aa98f27ec78c9d91ae1dcbf68691c185684082130784bf654d79be4"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/028-3ac163081ea0.wav",
+      "duration": 6.59175,
+      "addedPauseSeconds": 0.4,
+      "textHash": "dca611ce8948",
+      "audioSha256": "3ac163081ea0f79544ff9f7c510d55b7376aa01f9e7d131b258ebea6917e3e47"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/029-544c70374075.wav",
+      "duration": 1.766875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cce569fe3c27",
+      "audioSha256": "544c7037407522568a2d171e6f23fad0afb52dd03b456b676b77ba677f756447"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/030-1316a3c06220.wav",
+      "duration": 1.301375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f63af0805f45",
+      "audioSha256": "1316a3c0622035276fd816487ff4ccfbc0f1bd0d2f5a8ecf30ece2b248d2d1f9"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/031-279cbbe7f505.wav",
+      "duration": 1.417375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b56a5563e9fd",
+      "audioSha256": "279cbbe7f5058fc5197782f2833542be79b17db4c173d09a526728d65200c18d"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/032-5460899e50dd.wav",
+      "duration": 9.167333333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "5b9ae7a833f9",
+      "audioSha256": "5460899e50dd82f265e46821e3703a4e19c09695368a415a51ca128e9bd10c07"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/033-90c579c0e258.wav",
+      "duration": 2.833833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "faed51ae3e20",
+      "audioSha256": "90c579c0e2589c0648311e1426c17d82f72f3701d06ef364f48efdf6c7d6a705"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/034-4d1e2c5fb4ac.wav",
+      "duration": 2.150375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "49b3051e5628",
+      "audioSha256": "4d1e2c5fb4acc2b6466585c77ad265b3025dcd944ab9b39f1841806fd550b5e1"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/035-088239dbb271.wav",
+      "duration": 5.119958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b66309f7a1c6",
+      "audioSha256": "088239dbb2712bc3b44135ce7a5e949d32157fe8444b5b34808a24be6bf7097a"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/036-c7d5a838cb25.wav",
+      "duration": 2.8440833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a4704737513f",
+      "audioSha256": "c7d5a838cb251d56b517b9ab28f7a82018141686ac16ff9cadad7604adfff08b"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/037-ea7d4448beeb.wav",
+      "duration": 3.4044166666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "953762af5344",
+      "audioSha256": "ea7d4448beebbf21d20bbaa4a103741eb4f6d5ace452b4b5a6841279a77b39f5"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/038-af73ebdad61d.wav",
+      "duration": 6.543166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "29289bd82a38",
+      "audioSha256": "af73ebdad61d15f7210ed77ad25b398799e25c3350e8b424a8ef3260a33b8f88"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/039-f794e57a6119.wav",
+      "duration": 3.7918333333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c843d187245a",
+      "audioSha256": "f794e57a6119bb5634e8b05aedaebf5938515b88a944813e4a6f118770a3db79"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/040-3a58dfdd8ebd.wav",
+      "duration": 8.172833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ddf18e399b88",
+      "audioSha256": "3a58dfdd8ebdbf1a2d16e5040cccf619cd7b25d73a2b1f3132b4271f99042bda"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/041-bd346bad4c4e.wav",
+      "duration": 4.384125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "05bfaa3bf4c8",
+      "audioSha256": "bd346bad4c4e4e244451fb8a37dc0ba9924c14e9d56333c8fa9524aef96d2faf"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/042-8b4a416340d4.wav",
+      "duration": 3.823583333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3155cd75bccd",
+      "audioSha256": "8b4a416340d43720a938d2e040a04a688d2d9f25ba093e959cb1b4e7006038b8"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/043-5758d318c346.wav",
+      "duration": 4.612333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "282fcbdd2be3",
+      "audioSha256": "5758d318c3463d5c80bd946f7fffe7221b6a0f1a4d7c2716a77d63de40584bda"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/044-92dfded2dad5.wav",
+      "duration": 2.3655,
+      "addedPauseSeconds": 0.4,
+      "textHash": "952a52bc9318",
+      "audioSha256": "92dfded2dad5ea09522a10bba4d2fe0c6b95c51d02c1b226f2d8ee11acbd4da2"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/045-bb71d4b64f09.wav",
+      "duration": 1.596375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d23dbcc370ec",
+      "audioSha256": "bb71d4b64f09bb04d6109a1d3dffb91562c04e3ec6982f98dfec8bacdbb0e971"
+    },
+    {
+      "src": "/audio/articles/check-in-7800-miles-away/046-ecb7bc5d2de4.wav",
+      "duration": 5.448791666666667,
+      "addedPauseSeconds": 0,
+      "textHash": "940f92cf6eb1",
+      "audioSha256": "ecb7bc5d2de480eba40c38fcdd653c56c7d61bc7dccc6ceac5ada78e6443b69d"
     }
   ]
 }

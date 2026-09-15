@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
+  "format": "wav",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:48:38.370104+00:00",
+  "chunks": [
+    {
+      "src": "/audio/articles/the-art-of-album-covers/001-dce767a9c013.wav",
+      "duration": 4.568,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ff39678dde4b",
+      "audioSha256": "dce767a9c013e3e7956841807649db9e41016abcb14f19d8925df214832981f2"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/002-bf13ef43f3d5.wav",
+      "duration": 3.916875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9242afd85900",
+      "audioSha256": "bf13ef43f3d5a5acf4c745c49ecb695ace0c091a5fb4c8deb8388ba49b710364"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/003-e3b63da9d9d4.wav",
+      "duration": 10.7945,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3435e423c588",
+      "audioSha256": "e3b63da9d9d41c63e344a8b3f92358d820649303f7528a5e8c62e5e0a6c2a192"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/004-14dc4dde4ca8.wav",
+      "duration": 8.05075,
+      "addedPauseSeconds": 0.4,
+      "textHash": "bf4c577594cc",
+      "audioSha256": "14dc4dde4ca88e32c7fc7dae2bdb2b0c0d2674df7e86351e7423f9e303cbd4e4"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/005-92720c7688da.wav",
+      "duration": 6.714916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6e4a7ff26f4d",
+      "audioSha256": "92720c7688daa23231ff9d5ee4bbd034172880d1a1e49cb6be71b58e07f9eb25"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/006-f67316f65475.wav",
+      "duration": 6.369208333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "2782d41c06dd",
+      "audioSha256": "f67316f65475b8f0765286c8846c0c492efb2be6294a1e5a1ffe1c60de78d709"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/007-dfe871b08ddb.wav",
+      "duration": 3.706375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0efe9e19426d",
+      "audioSha256": "dfe871b08ddb54446a91a26390b428953cf2aefb316b00a8cbe85b5f85b89aa8"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/008-8e63ef3226bb.wav",
+      "duration": 7.914333333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "6a02c5706e3f",
+      "audioSha256": "8e63ef3226bbc6ce69f95ffd397fb4ec7ab1133fe8bf39e85597c459ba83cb53"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/009-66474e4e92ad.wav",
+      "duration": 9.376791666666668,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0dc5d85a41a2",
+      "audioSha256": "66474e4e92ad9ae9374794999540add632589ac0646adfaacbdfd5e7604ebaf9"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/010-bdbbf05d3d84.wav",
+      "duration": 5.115291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "06f43bd2ad83",
+      "audioSha256": "bdbbf05d3d84b504357753656626020dff9c16a89307d296e1303bf50945a291"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/011-67632dc01183.wav",
+      "duration": 6.964416666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "ec982441a9cf",
+      "audioSha256": "67632dc01183fba9bff301acafc48492d8092adc37de1342c6c798967f83d5b7"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/012-50eca46803fc.wav",
+      "duration": 7.527041666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "919eeb5ae704",
+      "audioSha256": "50eca46803fcb5744449ac853b65b5cd38cd2a3fc0010bdc26442070029ee43a"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/013-c574b8e4df73.wav",
+      "duration": 10.065708333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "290071bddfa5",
+      "audioSha256": "c574b8e4df736e05f59bf15cc70bb4bc5e9c9779adc6f028e8c23b9be54d22d6"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/014-e0e2755ca766.wav",
+      "duration": 8.479833333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "6cb11caede2a",
+      "audioSha256": "e0e2755ca766647e415b41af83c635abccc439a63eecd4954042f1e7834e7dad"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/015-aef1f523e72a.wav",
+      "duration": 9.937458333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "c0391111dac1",
+      "audioSha256": "aef1f523e72aa65ae39599590effc9d18552d4437abcc21f3771889293253b82"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/016-60cb23c02d41.wav",
+      "duration": 10.2765,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b42e70a71343",
+      "audioSha256": "60cb23c02d419d667e8f3f7744c6b8d86d996235e2684b149dc1798e9a569232"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/017-cc67f4f21d44.wav",
+      "duration": 6.924125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "432bd8376afa",
+      "audioSha256": "cc67f4f21d440cbbbeb7dabcb0a0708525fcd418ad621b025c3b422f24f31551"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/018-963c7b1a2087.wav",
+      "duration": 11.006375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5932338e8982",
+      "audioSha256": "963c7b1a20871c1533a84231f49cf9ef93b330326191fc46cb2fdc4e900b2e2e"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/019-76e93f3ae4cc.wav",
+      "duration": 9.286375,
+      "addedPauseSeconds": 0.7,
+      "textHash": "81fd5cab5cdd",
+      "audioSha256": "76e93f3ae4ccef71543b2c517584ca7dd5444c1940c2c1245189d6a26dfba4a2"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/020-c736814d296d.wav",
+      "duration": 8.513125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "57120092fa34",
+      "audioSha256": "c736814d296dde16be8a06840a9c00ebf7a00767ec936e6621160da49eeb8aaf"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/021-9ab91c76e266.wav",
+      "duration": 12.44025,
+      "addedPauseSeconds": 0.4,
+      "textHash": "065f8c31cc93",
+      "audioSha256": "9ab91c76e2665d7335eb58fc1581a3267991a9a50c1ad9733724d4d24eceba6f"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/022-dd2a0275f65a.wav",
+      "duration": 10.712583333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "57d32cda3b2b",
+      "audioSha256": "dd2a0275f65a0f22d078b19c86289730950055065766b53081dc18612ffac08d"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/023-2b23ed902dec.wav",
+      "duration": 8.816416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cacf6094a487",
+      "audioSha256": "2b23ed902decec10cdcec219d3ecda5ead45276d764196c8c73522bfa1531734"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/024-ea90899ad5aa.wav",
+      "duration": 8.690291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "33798d370496",
+      "audioSha256": "ea90899ad5aa9133d7f70ca86ea853b1505a23cd0d49486168ba75a1b07d8a52"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/025-af72025c7185.wav",
+      "duration": 9.082416666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "1acc11680b8b",
+      "audioSha256": "af72025c7185df2537bcf790c91ca84bef0b1a43bc0216a5dafaf38aa120882d"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/026-7416297e161b.wav",
+      "duration": 6.83375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9f43d57b18fa",
+      "audioSha256": "7416297e161ba0dc2974bd5027e244f02b5a13a96e042bbf43d3aa89978fab51"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/027-110758d7bc66.wav",
+      "duration": 8.997083333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "d9b955b28ceb",
+      "audioSha256": "110758d7bc66ef43a49cd97231ecbc73cf295b277982c407861890df613120b5"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/028-3c229aaacd34.wav",
+      "duration": 8.390583333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4cad02c88e3f",
+      "audioSha256": "3c229aaacd344b31996d4353d83990b5f3f40851c512320cf2ec522cae6869a4"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/029-3ff1ea55bd85.wav",
+      "duration": 11.962375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "55f342bc7cb4",
+      "audioSha256": "3ff1ea55bd85fc3877dcfbd79a4a5fb6698832a4dbacedd6ddefc9380ddf9735"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/030-19b8176961c8.wav",
+      "duration": 9.460416666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "686fcf2d3f38",
+      "audioSha256": "19b8176961c850c95ca84f01b053e580994dfedbd5eb54229567bfc83aacd59a"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/031-eb3f7d5fd460.wav",
+      "duration": 4.902541666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f457066f731a",
+      "audioSha256": "eb3f7d5fd460b6cde660d9cb8fb92b2bd826d07b855be56dad0b1194d535fb6c"
+    },
+    {
+      "src": "/audio/articles/the-art-of-album-covers/032-9d9a0054c926.wav",
+      "duration": 8.123583333333332,
+      "addedPauseSeconds": 0,
+      "textHash": "a8e785a5f0c0",
+      "audioSha256": "9d9a0054c926720e78880ccd352407f73878af6964ed1124398f4a66ff67ae3b"
+    }
+  ]
+}

@@ -1,50 +1,266 @@
 {
   "version": 1,
-  "engine": "kokoro",
-  "voice": "af_heart",
-  "langCode": "a",
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
   "format": "wav",
-  "generatedAt": "2026-07-11T03:42:30.911Z",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-09-13T20:12:47.013908+00:00",
   "chunks": [
     {
-      "src": "/audio/articles/analogue-heartbeat/001.wav",
-      "duration": 25.175,
-      "textHash": "5672caf15400"
+      "src": "/audio/articles/analogue-heartbeat/001-325be0ec96cc.wav",
+      "duration": 6.364958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d227e9940310",
+      "audioSha256": "325be0ec96cc1afe5e658aa19b5d394c331752e08eec61dd86d5bd032dc683d6"
     },
     {
-      "src": "/audio/articles/analogue-heartbeat/002.wav",
-      "duration": 27.925,
-      "textHash": "8220eab465ff"
+      "src": "/audio/articles/analogue-heartbeat/002-dcd6777fe72a.wav",
+      "duration": 4.040291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "410b77b432a2",
+      "audioSha256": "dcd6777fe72a49ad1dbc647321b0971d42384c352097650b1459fc359deae719"
     },
     {
-      "src": "/audio/articles/analogue-heartbeat/003.wav",
-      "duration": 21.725,
-      "textHash": "a508241bb99d"
+      "src": "/audio/articles/analogue-heartbeat/003-a930581eb7bc.wav",
+      "duration": 6.114958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "99d14b250eab",
+      "audioSha256": "a930581eb7bc672143e353a34f10a2099905f105226cab35ea18f0c43cbc8e71"
     },
     {
-      "src": "/audio/articles/analogue-heartbeat/004.wav",
-      "duration": 42.45,
-      "textHash": "fa723fe72b6a"
+      "src": "/audio/articles/analogue-heartbeat/004-bfcd8e5bdea1.wav",
+      "duration": 2.53675,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f808a977eddb",
+      "audioSha256": "bfcd8e5bdea17babf8b9bdae423f8e5feccf09353a559b42e343f19bc647747e"
     },
     {
-      "src": "/audio/articles/analogue-heartbeat/005.wav",
-      "duration": 16.925,
-      "textHash": "0611e79bbe42"
+      "src": "/audio/articles/analogue-heartbeat/005-9cc8747a20fe.wav",
+      "duration": 13.720916666666668,
+      "addedPauseSeconds": 0.7,
+      "textHash": "ec95eb2daa71",
+      "audioSha256": "9cc8747a20fed30be9b569ccdb950f3bd762aea9610f7611cb9fa94f77a3c876"
     },
     {
-      "src": "/audio/articles/analogue-heartbeat/006.wav",
-      "duration": 19.05,
-      "textHash": "bedbd0180614"
+      "src": "/audio/articles/analogue-heartbeat/006-820c3bf42e8a.wav",
+      "duration": 4.182166666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d502466115cb",
+      "audioSha256": "820c3bf42e8a515b74be50f8ed59e528541fcd884161d1cbd2dbbc0206cc4150"
     },
     {
-      "src": "/audio/articles/analogue-heartbeat/007.wav",
-      "duration": 24.625,
-      "textHash": "04141bf6161f"
+      "src": "/audio/articles/analogue-heartbeat/007-34717431f895.wav",
+      "duration": 6.372333333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8162d6da4f15",
+      "audioSha256": "34717431f895df8fe9c92416c289ddbc66769006b67ba7ccf0e5588d25ed4f11"
     },
     {
-      "src": "/audio/articles/analogue-heartbeat/008.wav",
-      "duration": 13.7,
-      "textHash": "2191b5e144e4"
+      "src": "/audio/articles/analogue-heartbeat/008-2e8fa800fd5f.wav",
+      "duration": 4.556625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b15e013ebc86",
+      "audioSha256": "2e8fa800fd5fee62771b86c946aad9f6d29750705d3783f015bc7cad3dfc44df"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/009-71e4e8970178.wav",
+      "duration": 7.917083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "0623ae5a110c",
+      "audioSha256": "71e4e8970178a3abf9912de740501667976d043a3dbb0f736cc1e56b241f4569"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/010-ecc609e93f3e.wav",
+      "duration": 6.323916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3be2ba7b6034",
+      "audioSha256": "ecc609e93f3e087f963b9f43d062e7dc0e9950dd9f8c410f641dba1f3586c8f7"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/011-c6e8f98f617d.wav",
+      "duration": 5.550166666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "5b0fbb87776c",
+      "audioSha256": "c6e8f98f617d9d273fb6164fadcedea75bb4c4e450fbab0f44c73854d09f4ff5"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/012-ffcc5d8ca37e.wav",
+      "duration": 8.304958333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "898ce3feb841",
+      "audioSha256": "ffcc5d8ca37ece999ccff78bf27b1d6e4fc8b2110a567ec8501ddaafe6c530aa"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/013-962f0a88eb28.wav",
+      "duration": 12.992916666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "9cd1cd409bf6",
+      "audioSha256": "962f0a88eb28a7d37e0d823a39008fb4a723e318c7d28b91633f23c4b603f877"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/014-04489f4fc049.wav",
+      "duration": 4.051375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "40ce48bd80e8",
+      "audioSha256": "04489f4fc04960cf364fd5d92ba97c35966524d14448f1752d56a08e6f07b70c"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/015-5c4839229277.wav",
+      "duration": 4.943958333333334,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5c2daf7c6156",
+      "audioSha256": "5c483922927797231e4cd3b6ce374dbfbad05fb9a04b7cbbfecb8bcc8256093a"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/016-f019cf26d80f.wav",
+      "duration": 5.030375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "c863903cf30e",
+      "audioSha256": "f019cf26d80f37aa9b8ac095e86de10d6aba55877f2d87279417fadf50ee0ed1"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/017-3c276bdc37bb.wav",
+      "duration": 5.556166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9c5d8b4c9917",
+      "audioSha256": "3c276bdc37bbbec71bbe4a68a8fd8d1bceb2000e0df468e4345af46cfff9286b"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/018-4d8ea0fcbaf5.wav",
+      "duration": 6.11475,
+      "addedPauseSeconds": 0.4,
+      "textHash": "549ca07619e5",
+      "audioSha256": "4d8ea0fcbaf5e6c5931391efa25184615b04fdbd43021aecb3cdb2de0cc3ffae"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/019-1abf3858e4f1.wav",
+      "duration": 7.493875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2028ad0ba5dd",
+      "audioSha256": "1abf3858e4f1b2ca01c3ffd2afee06c5dadbb2842c374b788768da71d1b6489d"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/020-b4ad155c5940.wav",
+      "duration": 15.56975,
+      "addedPauseSeconds": 0.7,
+      "textHash": "e6c5d416b5bf",
+      "audioSha256": "b4ad155c594075e54c946f6725064525a8f88ae0881708444285bf9ab632ed09"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/021-a8a79001a205.wav",
+      "duration": 3.7089166666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7c17f808b9ec",
+      "audioSha256": "a8a79001a205d449bdbbf9908a5e46292af9d19a46bda58f32dad4420f735562"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/022-cfe243759ea1.wav",
+      "duration": 4.096541666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cfba9ad933f4",
+      "audioSha256": "cfe243759ea1e1e8ea3b4ff0c3e3fd3bd227a4d76ce282f6b3e99ec466a8ef68"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/023-f9b6f3982210.wav",
+      "duration": 4.646875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9b4acd6aad24",
+      "audioSha256": "f9b6f39822103e03db207d4748ac370bc0bd7f4b17145d7b1ff01ab86ad6e2a5"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/024-15028fc3bcd3.wav",
+      "duration": 7.14875,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f72db496c157",
+      "audioSha256": "15028fc3bcd31de9c0552c68f2db03dd68b2966735693bfcd89c4b917faaf30c"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/025-aeb200889b4f.wav",
+      "duration": 5.64325,
+      "addedPauseSeconds": 0.4,
+      "textHash": "197d6d455986",
+      "audioSha256": "aeb200889b4fb6c25b0117ee8e0d8027546083a7578969519c8dcd8371fee022"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/026-6f5a46d26fe1.wav",
+      "duration": 5.242625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "979c62db8921",
+      "audioSha256": "6f5a46d26fe1d5d80e8ec63790d11c7b57e5cc76d26f2bf879088babd0e8e181"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/027-d6c47cc1cb35.wav",
+      "duration": 4.17525,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a2d3db4c1cdf",
+      "audioSha256": "d6c47cc1cb35f319a77b12f6b3937ebb6173873b15203282b96a6d015bebe843"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/028-fc9ecb82b36b.wav",
+      "duration": 4.395,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ec8d88f82630",
+      "audioSha256": "fc9ecb82b36b6d238a42b50d7651cfd4c107db2f48311527d4b6547453ba1b41"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/029-3b23f9e3c430.wav",
+      "duration": 2.35975,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f2210f2d4c83",
+      "audioSha256": "3b23f9e3c4305f9c9adedebf1d1d1862c7d464fe1eff49ec4bec461ff1ae493a"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/030-a71256d82ce2.wav",
+      "duration": 5.421333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "39340165f78e",
+      "audioSha256": "a71256d82ce26106228465d1d296a593f4aa3610548bb6257050ad5c93352935"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/031-7f30c56bef7a.wav",
+      "duration": 8.776291666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a5a9c91de2b0",
+      "audioSha256": "7f30c56bef7a8dbb19259602da1ecd5a81220832936d2a80978fbfcac772b74a"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/032-5412aa9a8b8b.wav",
+      "duration": 6.665708333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "728615278f8b",
+      "audioSha256": "5412aa9a8b8b39889ede354127ddccddbc8205c9b0750a10826923c1ae8d55fe"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/033-ba30c0a39bee.wav",
+      "duration": 6.491083333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "90a34b2c3216",
+      "audioSha256": "ba30c0a39bee87051c4a0158f8ee1984479d03bd975fcd007285539197fe06b3"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/034-6d1ba2028c98.wav",
+      "duration": 7.3064583333333335,
+      "addedPauseSeconds": 0.4,
+      "textHash": "14435eaebe47",
+      "audioSha256": "6d1ba2028c980df2bcc76c79cf892e3deef65b0825ca2379babfaaea613b7466"
+    },
+    {
+      "src": "/audio/articles/analogue-heartbeat/035-5f64314be61a.wav",
+      "duration": 7.434666666666667,
+      "addedPauseSeconds": 0,
+      "textHash": "63f9c1e37093",
+      "audioSha256": "5f64314be61a39c15c86428286487e7ecde87e1cae33a45f789440a34ffe6e73"
     }
   ]
 }
