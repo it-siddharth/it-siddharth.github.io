@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "engine": "chatterbox-0.1.2",
+  "voice": "Siddharth",
+  "langCode": "en",
+  "format": "wav",
+  "modelRevision": "5bb1f6ee58e50c3b8d408bc82a6d3740c2db6e18",
+  "settings": {
+    "exaggeration": 0.5,
+    "cfg_weight": 0.3,
+    "temperature": 0.8
+  },
+  "pacing": {
+    "tempo": 0.93,
+    "sentencePauseSeconds": 0.4,
+    "paragraphPauseSeconds": 0.7
+  },
+  "generatedAt": "2026-10-21T06:22:16.864082+00:00",
+  "chunks": [
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/001.wav",
+      "duration": 1.9827916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3626852e6ef4"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/002.wav",
+      "duration": 4.568875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6b3fa25dc2ab"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/003.wav",
+      "duration": 9.072875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "165fb2b81866"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/004.wav",
+      "duration": 6.450958333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f0c0404be7b7"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/005.wav",
+      "duration": 5.032791666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "9627fdfcc78b"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/006.wav",
+      "duration": 4.857625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "e822aa9eb7f6"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/007.wav",
+      "duration": 8.514916666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "dac74e943be3"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/008.wav",
+      "duration": 1.5467916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "09bbc37f2304"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/009.wav",
+      "duration": 2.0174166666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "57d1c7d4e5a5"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/010.wav",
+      "duration": 2.59,
+      "addedPauseSeconds": 0.4,
+      "textHash": "4961f27336e1"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/011.wav",
+      "duration": 3.4787916666666665,
+      "addedPauseSeconds": 0.7,
+      "textHash": "d3568341f90f"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/012.wav",
+      "duration": 3.1910416666666666,
+      "addedPauseSeconds": 0.7,
+      "textHash": "b7d1640fd8bf"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/013.wav",
+      "duration": 5.945041666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ea541d4cb86d"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/014.wav",
+      "duration": 2.0737916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "cd3dceec0531"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/015.wav",
+      "duration": 4.985333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1cca5ab5206e"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/016.wav",
+      "duration": 8.480333333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "438d6f61a60f"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/017.wav",
+      "duration": 4.949541666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "5681154cb5cf"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/018.wav",
+      "duration": 3.9170833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "ba3ddba3add4"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/019.wav",
+      "duration": 7.566375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7e2a3d6c671b"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/020.wav",
+      "duration": 3.0557916666666665,
+      "addedPauseSeconds": 0.4,
+      "textHash": "45459a55dd18"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/021.wav",
+      "duration": 6.194041666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "b8a206f63c68"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/022.wav",
+      "duration": 6.921958333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "8c9333bca7f9"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/023.wav",
+      "duration": 4.22,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a378026b552d"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/024.wav",
+      "duration": 2.4170833333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "cb082baa1789"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/025.wav",
+      "duration": 3.8390416666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2cd0d333305f"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/026.wav",
+      "duration": 2.059875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "616efd4c3f82"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/027.wav",
+      "duration": 7.485333333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8a1be60f6b96"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/028.wav",
+      "duration": 5.041833333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "8e3a0cde7d3e"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/029.wav",
+      "duration": 6.19575,
+      "addedPauseSeconds": 0.7,
+      "textHash": "ee0276fef9d0"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/030.wav",
+      "duration": 3.3492083333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "24dea51b4688"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/031.wav",
+      "duration": 6.505166666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "7756b4fa8ccc"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/032.wav",
+      "duration": 6.280916666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "51001819ecee"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/033.wav",
+      "duration": 2.894416666666667,
+      "addedPauseSeconds": 0.7,
+      "textHash": "f1330fcfd463"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/034.wav",
+      "duration": 5.373541666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "fed32a2f960a"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/035.wav",
+      "duration": 3.6191666666666666,
+      "addedPauseSeconds": 0.4,
+      "textHash": "24208a68d389"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/036.wav",
+      "duration": 5.97775,
+      "addedPauseSeconds": 0.4,
+      "textHash": "44fd3752d3e3"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/037.wav",
+      "duration": 5.852625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "a5aaed47a1e2"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/038.wav",
+      "duration": 3.9546666666666668,
+      "addedPauseSeconds": 0.7,
+      "textHash": "69d34075a5d8"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/039.wav",
+      "duration": 2.750875,
+      "addedPauseSeconds": 0.4,
+      "textHash": "52d5ee001825"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/040.wav",
+      "duration": 5.416375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "eb2dc2fa8f4b"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/041.wav",
+      "duration": 4.51625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "d4e1f3e2dce5"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/042.wav",
+      "duration": 7.480875,
+      "addedPauseSeconds": 0.7,
+      "textHash": "356ad86c666f"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/043.wav",
+      "duration": 6.793833333333334,
+      "addedPauseSeconds": 0.7,
+      "textHash": "62f0b733b711"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/044.wav",
+      "duration": 2.5845,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5faa775975b9"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/045.wav",
+      "duration": 5.505083333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "1822a55962fc"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/046.wav",
+      "duration": 7.020625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5cdaef0cd842"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/047.wav",
+      "duration": 7.439916666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "3cdd39d42ba6"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/048.wav",
+      "duration": 4.087875,
+      "addedPauseSeconds": 0.7,
+      "textHash": "e5d53e16126b"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/049.wav",
+      "duration": 4.044666666666667,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f4cf06461123"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/050.wav",
+      "duration": 7.659208333333333,
+      "addedPauseSeconds": 0.4,
+      "textHash": "6563be73ca61"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/051.wav",
+      "duration": 2.408125,
+      "addedPauseSeconds": 0.4,
+      "textHash": "f6ebd5fa2d1b"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/052.wav",
+      "duration": 9.8475,
+      "addedPauseSeconds": 0.4,
+      "textHash": "2ce7397c508f"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/053.wav",
+      "duration": 2.415375,
+      "addedPauseSeconds": 0.4,
+      "textHash": "5dc0c1a2cd2e"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/054.wav",
+      "duration": 5.42625,
+      "addedPauseSeconds": 0.4,
+      "textHash": "74dcd4f88061"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/055.wav",
+      "duration": 3.619458333333333,
+      "addedPauseSeconds": 0.7,
+      "textHash": "beed1bd41691"
+    },
+    {
+      "src": "/audio/articles/the-weight-of-unsaid-words/056.wav",
+      "duration": 2.3965833333333335,
+      "addedPauseSeconds": 0,
+      "textHash": "598334dd9172"
+    }
+  ]
+}
